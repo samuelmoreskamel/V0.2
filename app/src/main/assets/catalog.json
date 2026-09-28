@@ -1,0 +1,2852 @@
+[
+  {
+    "code": "N003",
+    "nameAr": "صامولة 3 مم، فولاذ مطلي بالزنك",
+    "nameEn": "Nut 3 mm, Zinc Plated Steel",
+    "descriptionAr": "صامولة 3 مم، فولاذ مطلي بالزنك",
+    "descriptionEn": "Nut 3 mm, Zinc Plated Steel",
+    "specifications": "3 mm; Steel; Zinc Plated",
+    "page": 1,
+    "image": "images/N003.jpg"
+  },
+  {
+    "code": "N006",
+    "nameAr": "صامولة M6، فولاذ مطلي بالزنك",
+    "nameEn": "Nut M6, Zinc Plated Steel",
+    "descriptionAr": "صامولة M6، فولاذ مطلي بالزنك",
+    "descriptionEn": "Nut M6, Zinc Plated Steel",
+    "specifications": "M6; Steel; Zinc Plated",
+    "page": 1,
+    "image": "images/N006.jpg"
+  },
+  {
+    "code": "N-104",
+    "nameAr": "صامولة M14 ستانلس ستيل",
+    "nameEn": "Nut M14, Stainless Steel",
+    "descriptionAr": "صامولة M14 ستانلس ستيل",
+    "descriptionEn": "Nut M14, Stainless Steel",
+    "specifications": "M14; Stainless Steel; Natural",
+    "page": 1,
+    "image": "images/N-104.jpg"
+  },
+  {
+    "code": "N-105",
+    "nameAr": "صامولة M5، فولاذ مطلي بالزنك",
+    "nameEn": "Nut M5, Zinc Plated Steel",
+    "descriptionAr": "صامولة M5، فولاذ مطلي بالزنك",
+    "descriptionEn": "Nut M5, Zinc Plated Steel",
+    "specifications": "M5; Steel; Zinc Plated",
+    "page": 1,
+    "image": "images/N-105.jpg"
+  },
+  {
+    "code": "N-39",
+    "nameAr": "صامولة M8، فولاذ مطلي بالزنك",
+    "nameEn": "Nut M8, Zinc Plated Steel",
+    "descriptionAr": "صامولة M8، فولاذ مطلي بالزنك",
+    "descriptionEn": "Nut M8, Zinc Plated Steel",
+    "specifications": "M8; Steel; Zinc Plated",
+    "page": 1,
+    "image": "images/N-39.jpg"
+  },
+  {
+    "code": "PI01",
+    "nameAr": "فيشة بلاستيك بيضاء",
+    "nameEn": "Plug, Plastic, White",
+    "descriptionAr": "فيشة بلاستيك بيضاء",
+    "descriptionEn": "Plug, Plastic, White",
+    "specifications": "Plastic; White",
+    "page": 2,
+    "image": "images/PI01.jpg"
+  },
+  {
+    "code": "R003",
+    "nameAr": "برشام ألومنيوم 3 × 8 مم",
+    "nameEn": "Aluminum Rivet 3 x 8 mm",
+    "descriptionAr": "برشام ألومنيوم 3 × 8 مم",
+    "descriptionEn": "Aluminum Rivet 3 x 8 mm",
+    "specifications": "3 x 8 mm; Aluminum; Natural",
+    "page": 2,
+    "image": "images/R003.jpg"
+  },
+  {
+    "code": "RN-02",
+    "nameAr": "صامولة برشام مسطحة الرأس مجلفنة M4",
+    "nameEn": "Flat Head Rivet Nut, Galvanized M4",
+    "descriptionAr": "صامولة برشام مسطحة الرأس مجلفنة M4",
+    "descriptionEn": "Flat Head Rivet Nut, Galvanized M4",
+    "specifications": "M4 x L11 mm; Hole Ø6.00 mm",
+    "page": 2,
+    "image": "images/RN-02.jpg"
+  },
+  {
+    "code": "RN-04",
+    "nameAr": "صامولة برشام مسطحة الرأس مجلفنة M6",
+    "nameEn": "Flat Head Rivet Nut, Galvanized M6",
+    "descriptionAr": "صامولة برشام مسطحة الرأس مجلفنة M6",
+    "descriptionEn": "Flat Head Rivet Nut, Galvanized M6",
+    "specifications": "M6 x L15 mm; Hole Ø9.00 mm",
+    "page": 2,
+    "image": "images/RN-04.jpg"
+  },
+  {
+    "code": "RN-115",
+    "nameAr": "برشام ألومنيوم 4 × 10 مم",
+    "nameEn": "Aluminum Rivet 4 x 10 mm",
+    "descriptionAr": "برشام ألومنيوم 4 × 10 مم",
+    "descriptionEn": "Aluminum Rivet 4 x 10 mm",
+    "specifications": "4 x 10 mm; Aluminum; Natural",
+    "page": 2,
+    "image": "images/RN-115.jpg"
+  },
+  {
+    "code": "RN-138",
+    "nameAr": "برشام ألومنيوم 3 × 10 مم",
+    "nameEn": "Aluminum Rivet 3 x 10 mm",
+    "descriptionAr": "برشام ألومنيوم 3 × 10 مم",
+    "descriptionEn": "Aluminum Rivet 3 x 10 mm",
+    "specifications": "3 x 10 mm; Aluminum; Natural",
+    "page": 3,
+    "image": "images/RN-138.jpg"
+  },
+  {
+    "code": "RN-35",
+    "nameAr": "صامولة سداسية M6 ستانلس ستيل",
+    "nameEn": "Hex Nut M6, Stainless Steel",
+    "descriptionAr": "صامولة سداسية M6 ستانلس ستيل",
+    "descriptionEn": "Hex Nut M6, Stainless Steel",
+    "specifications": "M6; Stainless Steel; Natural",
+    "page": 3,
+    "image": "images/RN-35.jpg"
+  },
+  {
+    "code": "RN-78",
+    "nameAr": "برشام ألومنيوم 3 × 6 مم",
+    "nameEn": "Aluminum Rivet 3 x 6 mm",
+    "descriptionAr": "برشام ألومنيوم 3 × 6 مم",
+    "descriptionEn": "Aluminum Rivet 3 x 6 mm",
+    "specifications": "3 x 6 mm; Aluminum; Natural",
+    "page": 3,
+    "image": "images/RN-78.jpg"
+  },
+  {
+    "code": "SC003006",
+    "nameAr": "مسمار صليبة برأس بان M3 × 6 مم، فولاذ مطلي بالزنك",
+    "nameEn": "Cross Pan Head Screw M3 x 6 mm, Zinc Plated Steel",
+    "descriptionAr": "مسمار صليبة برأس بان M3 × 6 مم، فولاذ مطلي بالزنك",
+    "descriptionEn": "Cross Pan Head Screw M3 x 6 mm, Zinc Plated Steel",
+    "specifications": "M3 x 6 mm; Steel; Zinc Plated",
+    "page": 3,
+    "image": "images/SC003006.jpg"
+  },
+  {
+    "code": "SC003008",
+    "nameAr": "مسمار فيليبس برأس بان M3 × 8 مم، فولاذ مجلفن",
+    "nameEn": "Phillips Pan Head Screw M3 x 8 mm, Galvanized Steel",
+    "descriptionAr": "مسمار فيليبس برأس بان M3 × 8 مم، فولاذ مجلفن",
+    "descriptionEn": "Phillips Pan Head Screw M3 x 8 mm, Galvanized Steel",
+    "specifications": "M3 x 8 mm; Galvanized Steel; Zinc Plated",
+    "page": 3,
+    "image": "images/SC003008.jpg"
+  },
+  {
+    "code": "N-40",
+    "nameAr": "صامولة M10، فولاذ مطلي بالزنك",
+    "nameEn": "Nut M10, Zinc Plated Steel",
+    "descriptionAr": "صامولة M10، فولاذ مطلي بالزنك",
+    "descriptionEn": "Nut M10, Zinc Plated Steel",
+    "specifications": "M10; Steel; Zinc Plated",
+    "page": 4,
+    "image": "images/N-40.jpg"
+  },
+  {
+    "code": "N-97",
+    "nameAr": "صامولة سداسية بفلنشة مسننة M4 ستانلس ستيل",
+    "nameEn": "Hexagon Nut with Serrated Flange M4, Stainless Steel",
+    "descriptionAr": "صامولة سداسية بفلنشة مسننة M4 ستانلس ستيل",
+    "descriptionEn": "Hexagon Nut with Serrated Flange M4, Stainless Steel",
+    "specifications": "M4; Stainless Steel; Natural",
+    "page": 4,
+    "image": "images/N-97.jpg"
+  },
+  {
+    "code": "N-98",
+    "nameAr": "صامولة سداسية بفلنشة مسننة M5 ستانلس ستيل",
+    "nameEn": "Hexagon Nut with Serrated Flange M5, Stainless Steel",
+    "descriptionAr": "صامولة سداسية بفلنشة مسننة M5 ستانلس ستيل",
+    "descriptionEn": "Hexagon Nut with Serrated Flange M5, Stainless Steel",
+    "specifications": "M5; Stainless Steel; Natural",
+    "page": 4,
+    "image": "images/N-98.jpg"
+  },
+  {
+    "code": "NS003",
+    "nameAr": "صامولة M3 ستانلس ستيل",
+    "nameEn": "Nut M3, Stainless Steel",
+    "descriptionAr": "صامولة M3 ستانلس ستيل",
+    "descriptionEn": "Nut M3, Stainless Steel",
+    "specifications": "M3; Stainless Steel; Natural",
+    "page": 4,
+    "image": "images/NS003.jpg"
+  },
+  {
+    "code": "NS004",
+    "nameAr": "صامولة M4 ستانلس ستيل",
+    "nameEn": "Nut M4, Stainless Steel",
+    "descriptionAr": "صامولة M4 ستانلس ستيل",
+    "descriptionEn": "Nut M4, Stainless Steel",
+    "specifications": "M4; Stainless Steel; Natural",
+    "page": 4,
+    "image": "images/NS004.jpg"
+  },
+  {
+    "code": "CT10",
+    "nameAr": "رباط كابل بلاستيك 10 مم",
+    "nameEn": "Cable Tie 10 mm",
+    "descriptionAr": "رباط كابل بلاستيك 10 مم",
+    "descriptionEn": "Cable Tie 10 mm",
+    "specifications": "10 mm; Plastic",
+    "page": 5,
+    "image": "images/CT10.jpg"
+  },
+  {
+    "code": "CT20",
+    "nameAr": "رباط كابل بلاستيك 20 سم",
+    "nameEn": "Cable Tie 20 cm",
+    "descriptionAr": "رباط كابل بلاستيك 20 سم",
+    "descriptionEn": "Cable Tie 20 cm",
+    "specifications": "20 cm; Plastic",
+    "page": 5,
+    "image": "images/CT20.jpg"
+  },
+  {
+    "code": "SC003010",
+    "nameAr": "مسمار صليبة برأس مرتفع M3 × 10 مم، فولاذ مطلي بالزنك",
+    "nameEn": "Cross Recessed Raised Head Screw M3 x 10 mm, Zinc Plated Steel",
+    "descriptionAr": "مسمار صليبة برأس مرتفع M3 × 10 مم، فولاذ مطلي بالزنك",
+    "descriptionEn": "Cross Recessed Raised Head Screw M3 x 10 mm, Zinc Plated Steel",
+    "specifications": "M3 x 10 mm; Steel; Zinc Plated",
+    "page": 5,
+    "image": "images/SC003010.jpg"
+  },
+  {
+    "code": "SC003012",
+    "nameAr": "مسمار صليبة برأس مرتفع M3 × 12 مم، فولاذ مطلي بالزنك",
+    "nameEn": "Cross Recessed Raised Head Screw M3 x 12 mm, Zinc Plated Steel",
+    "descriptionAr": "مسمار صليبة برأس مرتفع M3 × 12 مم، فولاذ مطلي بالزنك",
+    "descriptionEn": "Cross Recessed Raised Head Screw M3 x 12 mm, Zinc Plated Steel",
+    "specifications": "M3 x 12 mm; Steel; Zinc Plated",
+    "page": 5,
+    "image": "images/SC003012.jpg"
+  },
+  {
+    "code": "SC004006",
+    "nameAr": "مسمار فيليبس برأس بان M4 × 6 مم، فولاذ مجلفن",
+    "nameEn": "Phillips Pan Head Screw M4 x 6 mm, Galvanized Steel",
+    "descriptionAr": "مسمار فيليبس برأس بان M4 × 6 مم، فولاذ مجلفن",
+    "descriptionEn": "Phillips Pan Head Screw M4 x 6 mm, Galvanized Steel",
+    "specifications": "M4 x 6 mm; Galvanized",
+    "page": 5,
+    "image": "images/SC004006.jpg"
+  },
+  {
+    "code": "SC004008",
+    "nameAr": "مسمار M4 × 8 مم، فولاذ",
+    "nameEn": "Screw M4 x 8 mm, Steel",
+    "descriptionAr": "مسمار M4 × 8 مم، فولاذ",
+    "descriptionEn": "Screw M4 x 8 mm, Steel",
+    "specifications": "M4 x 8 mm; Steel",
+    "page": 5,
+    "image": "images/SC004008.jpg"
+  },
+  {
+    "code": "SC004010",
+    "nameAr": "مسمار فيليبس برأس بان M4 × 10 مم، فولاذ مجلفن",
+    "nameEn": "Phillips Pan Head Screw M4 x 10 mm, Galvanized Steel",
+    "descriptionAr": "مسمار فيليبس برأس بان M4 × 10 مم، فولاذ مجلفن",
+    "descriptionEn": "Phillips Pan Head Screw M4 x 10 mm, Galvanized Steel",
+    "specifications": "M4 x 10 mm; Galvanized",
+    "page": 5,
+    "image": "images/SC004010.jpg"
+  },
+  {
+    "code": "SC004012",
+    "nameAr": "مسمار M4 × 12 مم، فولاذ",
+    "nameEn": "Screw M4 x 12 mm, Steel",
+    "descriptionAr": "مسمار M4 × 12 مم، فولاذ",
+    "descriptionEn": "Screw M4 x 12 mm, Steel",
+    "specifications": "M4 x 12 mm; Steel",
+    "page": 5,
+    "image": "images/SC004012.jpg"
+  },
+  {
+    "code": "SC02090405",
+    "nameAr": "SC02090405 — صنف مطابق لصفحة المصدر 5",
+    "nameEn": "SC02090405 — Item per source catalog page 5",
+    "descriptionAr": "SC02090405 — صنف مطابق لصفحة المصدر 5",
+    "descriptionEn": "SC02090405 — Item per source catalog page 5",
+    "specifications": "Source page 5",
+    "page": 5,
+    "image": "images/SC02090405.jpg"
+  },
+  {
+    "code": "SC025006",
+    "nameAr": "SC025006 — صنف مطابق لصفحة المصدر 5",
+    "nameEn": "SC025006 — Item per source catalog page 5",
+    "descriptionAr": "SC025006 — صنف مطابق لصفحة المصدر 5",
+    "descriptionEn": "SC025006 — Item per source catalog page 5",
+    "specifications": "Source page 5",
+    "page": 5,
+    "image": "images/SC025006.jpg"
+  },
+  {
+    "code": "SC-05",
+    "nameAr": "SC-05 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-05 — Item per source catalog page 6",
+    "descriptionAr": "SC-05 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-05 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-05.jpg"
+  },
+  {
+    "code": "SC-06",
+    "nameAr": "SC-06 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-06 — Item per source catalog page 6",
+    "descriptionAr": "SC-06 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-06 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-06.jpg"
+  },
+  {
+    "code": "SC-09",
+    "nameAr": "SC-09 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-09 — Item per source catalog page 6",
+    "descriptionAr": "SC-09 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-09 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-09.jpg"
+  },
+  {
+    "code": "SC-10",
+    "nameAr": "SC-10 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-10 — Item per source catalog page 6",
+    "descriptionAr": "SC-10 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-10 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-10.jpg"
+  },
+  {
+    "code": "SC-101",
+    "nameAr": "SC-101 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-101 — Item per source catalog page 6",
+    "descriptionAr": "SC-101 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-101 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-101.jpg"
+  },
+  {
+    "code": "SC-102",
+    "nameAr": "SC-102 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-102 — Item per source catalog page 6",
+    "descriptionAr": "SC-102 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-102 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-102.jpg"
+  },
+  {
+    "code": "Sc-104",
+    "nameAr": "Sc-104 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "Sc-104 — Item per source catalog page 6",
+    "descriptionAr": "Sc-104 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "Sc-104 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/Sc-104.jpg"
+  },
+  {
+    "code": "SC-11",
+    "nameAr": "SC-11 — صنف مطابق لصفحة المصدر 6",
+    "nameEn": "SC-11 — Item per source catalog page 6",
+    "descriptionAr": "SC-11 — صنف مطابق لصفحة المصدر 6",
+    "descriptionEn": "SC-11 — Item per source catalog page 6",
+    "specifications": "Source page 6",
+    "page": 6,
+    "image": "images/SC-11.jpg"
+  },
+  {
+    "code": "SC-118",
+    "nameAr": "SC-118 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-118 — Item per source catalog page 7",
+    "descriptionAr": "SC-118 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-118 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-118.jpg"
+  },
+  {
+    "code": "SC-119",
+    "nameAr": "SC-119 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-119 — Item per source catalog page 7",
+    "descriptionAr": "SC-119 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-119 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-119.jpg"
+  },
+  {
+    "code": "SC-12",
+    "nameAr": "SC-12 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-12 — Item per source catalog page 7",
+    "descriptionAr": "SC-12 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-12 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-12.jpg"
+  },
+  {
+    "code": "SC-120",
+    "nameAr": "SC-120 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-120 — Item per source catalog page 7",
+    "descriptionAr": "SC-120 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-120 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-120.jpg"
+  },
+  {
+    "code": "SC-121",
+    "nameAr": "SC-121 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-121 — Item per source catalog page 7",
+    "descriptionAr": "SC-121 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-121 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-121.jpg"
+  },
+  {
+    "code": "SC-124",
+    "nameAr": "SC-124 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-124 — Item per source catalog page 7",
+    "descriptionAr": "SC-124 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-124 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-124.jpg"
+  },
+  {
+    "code": "SC-125",
+    "nameAr": "SC-125 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-125 — Item per source catalog page 7",
+    "descriptionAr": "SC-125 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-125 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-125.jpg"
+  },
+  {
+    "code": "SC-137",
+    "nameAr": "SC-137 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-137 — Item per source catalog page 7",
+    "descriptionAr": "SC-137 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-137 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-137.jpg"
+  },
+  {
+    "code": "SC-140",
+    "nameAr": "SC-140 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-140 — Item per source catalog page 7",
+    "descriptionAr": "SC-140 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-140 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-140.jpg"
+  },
+  {
+    "code": "SC-141",
+    "nameAr": "SC-141 — صنف مطابق لصفحة المصدر 7",
+    "nameEn": "SC-141 — Item per source catalog page 7",
+    "descriptionAr": "SC-141 — صنف مطابق لصفحة المصدر 7",
+    "descriptionEn": "SC-141 — Item per source catalog page 7",
+    "specifications": "Source page 7",
+    "page": 7,
+    "image": "images/SC-141.jpg"
+  },
+  {
+    "code": "SC-142",
+    "nameAr": "SC-142 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-142 — Item per source catalog page 8",
+    "descriptionAr": "SC-142 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-142 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-142.jpg"
+  },
+  {
+    "code": "SC-144",
+    "nameAr": "SC-144 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-144 — Item per source catalog page 8",
+    "descriptionAr": "SC-144 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-144 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-144.jpg"
+  },
+  {
+    "code": "SC-162",
+    "nameAr": "SC-162 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-162 — Item per source catalog page 8",
+    "descriptionAr": "SC-162 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-162 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-162.jpg"
+  },
+  {
+    "code": "SC-176",
+    "nameAr": "SC-176 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-176 — Item per source catalog page 8",
+    "descriptionAr": "SC-176 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-176 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-176.jpg"
+  },
+  {
+    "code": "SC-178",
+    "nameAr": "SC-178 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-178 — Item per source catalog page 8",
+    "descriptionAr": "SC-178 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-178 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-178.jpg"
+  },
+  {
+    "code": "SC-180",
+    "nameAr": "SC-180 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-180 — Item per source catalog page 8",
+    "descriptionAr": "SC-180 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-180 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-180.jpg"
+  },
+  {
+    "code": "SC-181",
+    "nameAr": "SC-181 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-181 — Item per source catalog page 8",
+    "descriptionAr": "SC-181 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-181 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-181.jpg"
+  },
+  {
+    "code": "SC-186",
+    "nameAr": "SC-186 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-186 — Item per source catalog page 8",
+    "descriptionAr": "SC-186 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-186 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-186.jpg"
+  },
+  {
+    "code": "SC-190",
+    "nameAr": "SC-190 — صنف مطابق لصفحة المصدر 8",
+    "nameEn": "SC-190 — Item per source catalog page 8",
+    "descriptionAr": "SC-190 — صنف مطابق لصفحة المصدر 8",
+    "descriptionEn": "SC-190 — Item per source catalog page 8",
+    "specifications": "Source page 8",
+    "page": 8,
+    "image": "images/SC-190.jpg"
+  },
+  {
+    "code": "SC-191",
+    "nameAr": "SC-191 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-191 — Item per source catalog page 9",
+    "descriptionAr": "SC-191 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-191 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-191.jpg"
+  },
+  {
+    "code": "SC-195",
+    "nameAr": "SC-195 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-195 — Item per source catalog page 9",
+    "descriptionAr": "SC-195 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-195 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-195.jpg"
+  },
+  {
+    "code": "SC-200",
+    "nameAr": "SC-200 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-200 — Item per source catalog page 9",
+    "descriptionAr": "SC-200 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-200 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-200.jpg"
+  },
+  {
+    "code": "SC-201",
+    "nameAr": "SC-201 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-201 — Item per source catalog page 9",
+    "descriptionAr": "SC-201 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-201 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-201.jpg"
+  },
+  {
+    "code": "SC-202",
+    "nameAr": "SC-202 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-202 — Item per source catalog page 9",
+    "descriptionAr": "SC-202 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-202 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-202.jpg"
+  },
+  {
+    "code": "SC-205",
+    "nameAr": "SC-205 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-205 — Item per source catalog page 9",
+    "descriptionAr": "SC-205 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-205 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-205.jpg"
+  },
+  {
+    "code": "SC-21",
+    "nameAr": "SC-21 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-21 — Item per source catalog page 9",
+    "descriptionAr": "SC-21 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-21 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-21.jpg"
+  },
+  {
+    "code": "SC-213",
+    "nameAr": "SC-213 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-213 — Item per source catalog page 9",
+    "descriptionAr": "SC-213 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-213 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-213.jpg"
+  },
+  {
+    "code": "SC-215",
+    "nameAr": "SC-215 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-215 — Item per source catalog page 9",
+    "descriptionAr": "SC-215 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-215 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-215.jpg"
+  },
+  {
+    "code": "SC-217",
+    "nameAr": "SC-217 — صنف مطابق لصفحة المصدر 9",
+    "nameEn": "SC-217 — Item per source catalog page 9",
+    "descriptionAr": "SC-217 — صنف مطابق لصفحة المصدر 9",
+    "descriptionEn": "SC-217 — Item per source catalog page 9",
+    "specifications": "Source page 9",
+    "page": 9,
+    "image": "images/SC-217.jpg"
+  },
+  {
+    "code": "SC-218",
+    "nameAr": "SC-218 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-218 — Item per source catalog page 10",
+    "descriptionAr": "SC-218 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-218 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-218.jpg"
+  },
+  {
+    "code": "SC-219",
+    "nameAr": "SC-219 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-219 — Item per source catalog page 10",
+    "descriptionAr": "SC-219 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-219 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-219.jpg"
+  },
+  {
+    "code": "SC-220",
+    "nameAr": "SC-220 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-220 — Item per source catalog page 10",
+    "descriptionAr": "SC-220 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-220 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-220.jpg"
+  },
+  {
+    "code": "SC-221",
+    "nameAr": "SC-221 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-221 — Item per source catalog page 10",
+    "descriptionAr": "SC-221 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-221 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-221.jpg"
+  },
+  {
+    "code": "SC-222",
+    "nameAr": "SC-222 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-222 — Item per source catalog page 10",
+    "descriptionAr": "SC-222 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-222 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-222.jpg"
+  },
+  {
+    "code": "SC-227",
+    "nameAr": "SC-227 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-227 — Item per source catalog page 10",
+    "descriptionAr": "SC-227 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-227 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-227.jpg"
+  },
+  {
+    "code": "SC-228",
+    "nameAr": "SC-228 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-228 — Item per source catalog page 10",
+    "descriptionAr": "SC-228 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-228 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-228.jpg"
+  },
+  {
+    "code": "SC-229",
+    "nameAr": "SC-229 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-229 — Item per source catalog page 10",
+    "descriptionAr": "SC-229 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-229 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-229.jpg"
+  },
+  {
+    "code": "SC-23",
+    "nameAr": "SC-23 — صنف مطابق لصفحة المصدر 10",
+    "nameEn": "SC-23 — Item per source catalog page 10",
+    "descriptionAr": "SC-23 — صنف مطابق لصفحة المصدر 10",
+    "descriptionEn": "SC-23 — Item per source catalog page 10",
+    "specifications": "Source page 10",
+    "page": 10,
+    "image": "images/SC-23.jpg"
+  },
+  {
+    "code": "SC-234",
+    "nameAr": "SC-234 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-234 — Item per source catalog page 11",
+    "descriptionAr": "SC-234 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-234 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-234.jpg"
+  },
+  {
+    "code": "SC-235",
+    "nameAr": "SC-235 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-235 — Item per source catalog page 11",
+    "descriptionAr": "SC-235 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-235 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-235.jpg"
+  },
+  {
+    "code": "SC-248",
+    "nameAr": "SC-248 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-248 — Item per source catalog page 11",
+    "descriptionAr": "SC-248 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-248 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-248.jpg"
+  },
+  {
+    "code": "SC-251",
+    "nameAr": "SC-251 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-251 — Item per source catalog page 11",
+    "descriptionAr": "SC-251 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-251 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-251.jpg"
+  },
+  {
+    "code": "SC-252",
+    "nameAr": "SC-252 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-252 — Item per source catalog page 11",
+    "descriptionAr": "SC-252 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-252 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-252.jpg"
+  },
+  {
+    "code": "SC-256",
+    "nameAr": "SC-256 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-256 — Item per source catalog page 11",
+    "descriptionAr": "SC-256 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-256 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-256.jpg"
+  },
+  {
+    "code": "SC-260",
+    "nameAr": "SC-260 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-260 — Item per source catalog page 11",
+    "descriptionAr": "SC-260 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-260 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-260.jpg"
+  },
+  {
+    "code": "SC-261",
+    "nameAr": "SC-261 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-261 — Item per source catalog page 11",
+    "descriptionAr": "SC-261 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-261 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-261.jpg"
+  },
+  {
+    "code": "SC-262",
+    "nameAr": "SC-262 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-262 — Item per source catalog page 11",
+    "descriptionAr": "SC-262 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-262 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-262.jpg"
+  },
+  {
+    "code": "SC-265",
+    "nameAr": "SC-265 — صنف مطابق لصفحة المصدر 11",
+    "nameEn": "SC-265 — Item per source catalog page 11",
+    "descriptionAr": "SC-265 — صنف مطابق لصفحة المصدر 11",
+    "descriptionEn": "SC-265 — Item per source catalog page 11",
+    "specifications": "Source page 11",
+    "page": 11,
+    "image": "images/SC-265.jpg"
+  },
+  {
+    "code": "SC-33",
+    "nameAr": "SC-33 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-33 — Item per source catalog page 12",
+    "descriptionAr": "SC-33 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-33 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-33.jpg"
+  },
+  {
+    "code": "SC-34",
+    "nameAr": "SC-34 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-34 — Item per source catalog page 12",
+    "descriptionAr": "SC-34 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-34 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-34.jpg"
+  },
+  {
+    "code": "SC-36",
+    "nameAr": "SC-36 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-36 — Item per source catalog page 12",
+    "descriptionAr": "SC-36 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-36 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-36.jpg"
+  },
+  {
+    "code": "SC-37",
+    "nameAr": "SC-37 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-37 — Item per source catalog page 12",
+    "descriptionAr": "SC-37 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-37 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-37.jpg"
+  },
+  {
+    "code": "SC-38",
+    "nameAr": "SC-38 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-38 — Item per source catalog page 12",
+    "descriptionAr": "SC-38 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-38 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-38.jpg"
+  },
+  {
+    "code": "SC-40",
+    "nameAr": "SC-40 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-40 — Item per source catalog page 12",
+    "descriptionAr": "SC-40 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-40 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-40.jpg"
+  },
+  {
+    "code": "SC-42",
+    "nameAr": "SC-42 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-42 — Item per source catalog page 12",
+    "descriptionAr": "SC-42 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-42 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-42.jpg"
+  },
+  {
+    "code": "SC-44",
+    "nameAr": "SC-44 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-44 — Item per source catalog page 12",
+    "descriptionAr": "SC-44 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-44 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-44.jpg"
+  },
+  {
+    "code": "SC-50",
+    "nameAr": "SC-50 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-50 — Item per source catalog page 12",
+    "descriptionAr": "SC-50 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-50 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-50.jpg"
+  },
+  {
+    "code": "SC-52",
+    "nameAr": "SC-52 — صنف مطابق لصفحة المصدر 12",
+    "nameEn": "SC-52 — Item per source catalog page 12",
+    "descriptionAr": "SC-52 — صنف مطابق لصفحة المصدر 12",
+    "descriptionEn": "SC-52 — Item per source catalog page 12",
+    "specifications": "Source page 12",
+    "page": 12,
+    "image": "images/SC-52.jpg"
+  },
+  {
+    "code": "SC-59",
+    "nameAr": "SC-59 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-59 — Item per source catalog page 13",
+    "descriptionAr": "SC-59 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-59 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-59.jpg"
+  },
+  {
+    "code": "SC-71",
+    "nameAr": "SC-71 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-71 — Item per source catalog page 13",
+    "descriptionAr": "SC-71 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-71 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-71.jpg"
+  },
+  {
+    "code": "SC-73",
+    "nameAr": "SC-73 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-73 — Item per source catalog page 13",
+    "descriptionAr": "SC-73 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-73 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-73.jpg"
+  },
+  {
+    "code": "SC-74",
+    "nameAr": "SC-74 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-74 — Item per source catalog page 13",
+    "descriptionAr": "SC-74 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-74 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-74.jpg"
+  },
+  {
+    "code": "SC-76",
+    "nameAr": "SC-76 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-76 — Item per source catalog page 13",
+    "descriptionAr": "SC-76 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-76 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-76.jpg"
+  },
+  {
+    "code": "sc-83",
+    "nameAr": "sc-83 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "sc-83 — Item per source catalog page 13",
+    "descriptionAr": "sc-83 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "sc-83 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/sc-83.jpg"
+  },
+  {
+    "code": "SC-86",
+    "nameAr": "SC-86 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-86 — Item per source catalog page 13",
+    "descriptionAr": "SC-86 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-86 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-86.jpg"
+  },
+  {
+    "code": "SC-89",
+    "nameAr": "SC-89 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-89 — Item per source catalog page 13",
+    "descriptionAr": "SC-89 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-89 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-89.jpg"
+  },
+  {
+    "code": "SC-90",
+    "nameAr": "SC-90 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-90 — Item per source catalog page 13",
+    "descriptionAr": "SC-90 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-90 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-90.jpg"
+  },
+  {
+    "code": "SC-95",
+    "nameAr": "SC-95 — صنف مطابق لصفحة المصدر 13",
+    "nameEn": "SC-95 — Item per source catalog page 13",
+    "descriptionAr": "SC-95 — صنف مطابق لصفحة المصدر 13",
+    "descriptionEn": "SC-95 — Item per source catalog page 13",
+    "specifications": "Source page 13",
+    "page": 13,
+    "image": "images/SC-95.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M04X10",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M4 × 10 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M4 x 10 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M4 × 10 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M4 x 10 mm",
+    "specifications": "M4 x 10 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M04X10.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M04X12",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M4 × 12 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M4 x 12 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M4 × 12 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M4 x 12 mm",
+    "specifications": "M4 x 12 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M04X12.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M04X16",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M4 × 16 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M4 x 16 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M4 × 16 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M4 x 16 mm",
+    "specifications": "M4 x 16 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M04X16.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M05X12",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M5 × 12 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M5 x 12 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M5 × 12 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M5 x 12 mm",
+    "specifications": "M5 x 12 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M05X12.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M05X20",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M5 × 20 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M5 x 20 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M5 × 20 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M5 x 20 mm",
+    "specifications": "M5 x 20 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M05X20.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M05X40",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M5 × 40 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M5 x 40 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M5 × 40 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M5 x 40 mm",
+    "specifications": "M5 x 40 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M05X40.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M06X20",
+    "nameAr": "مسمار ألن غاطس ستانلس ستيل M6 × 20 مم",
+    "nameEn": "Allen Countersunk Screw, Stainless Steel, M6 x 20 mm",
+    "descriptionAr": "مسمار ألن غاطس ستانلس ستيل M6 × 20 مم",
+    "descriptionEn": "Allen Countersunk Screw, Stainless Steel, M6 x 20 mm",
+    "specifications": "M6 x 20 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-ACS-SS-M06X20.jpg"
+  },
+  {
+    "code": "SCR-AHC-AS-M03X12",
+    "nameAr": "مسمار ألن رأس أسطواني فولاذ سبائكي أسود M3 × 12 مم",
+    "nameEn": "Allen Head Cap Screw, Black Alloy Steel, M3 x 12 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني فولاذ سبائكي أسود M3 × 12 مم",
+    "descriptionEn": "Allen Head Cap Screw, Black Alloy Steel, M3 x 12 mm",
+    "specifications": "M3 x 12 mm; Black Alloy Steel",
+    "page": 14,
+    "image": "images/SCR-AHC-AS-M03X12.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M04X10",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M4 × 10 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M4 x 10 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M4 × 10 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M4 x 10 mm",
+    "specifications": "M4 x 10 mm; Stainless Steel",
+    "page": 14,
+    "image": "images/SCR-AHC-SS-M04X10.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M04X18",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M4 × 18 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M4 x 18 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M4 × 18 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M4 x 18 mm",
+    "specifications": "M4 x 18 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M04X18.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M04X50",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M4 × 50 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M4 x 50 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M4 × 50 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M4 x 50 mm",
+    "specifications": "M4 x 50 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M04X50.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X10",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 10 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M5 x 10 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 10 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M5 x 10 mm",
+    "specifications": "M5 x 10 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M05X10.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X16",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 16 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M5 x 16 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 16 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M5 x 16 mm",
+    "specifications": "M5 x 16 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M05X16.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X40",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 40 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M5 x 40 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 40 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M5 x 40 mm",
+    "specifications": "M5 x 40 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M05X40.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X60",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 60 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M5 x 60 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M5 × 60 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M5 x 60 mm",
+    "specifications": "M5 x 60 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M05X60.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M06X10",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M6 × 10 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M6 x 10 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M6 × 10 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M6 x 10 mm",
+    "specifications": "M6 x 10 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M06X10.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M06X20",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M6 × 20 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M6 x 20 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M6 × 20 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M6 x 20 mm",
+    "specifications": "M6 x 20 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M06X20.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M10X25",
+    "nameAr": "مسمار ألن رأس أسطواني ستانلس ستيل M10 × 25 مم",
+    "nameEn": "Allen Head Cap Screw, Stainless Steel, M10 x 25 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني ستانلس ستيل M10 × 25 مم",
+    "descriptionEn": "Allen Head Cap Screw, Stainless Steel, M10 x 25 mm",
+    "specifications": "M10 x 25 mm; Stainless Steel",
+    "page": 15,
+    "image": "images/SCR-AHC-SS-M10X25.jpg"
+  },
+  {
+    "code": "SCR-HH-GS-M20X30",
+    "nameAr": "مسمار رأس سداسي M20 × 30 مم، فولاذ مجلفن",
+    "nameEn": "Hexagon Head Screw M20 x 30 mm, Galvanized Steel",
+    "descriptionAr": "مسمار رأس سداسي M20 × 30 مم، فولاذ مجلفن",
+    "descriptionEn": "Hexagon Head Screw M20 x 30 mm, Galvanized Steel",
+    "specifications": "M20 x 30 mm; Galvanized Steel",
+    "page": 15,
+    "image": "images/SCR-HH-GS-M20X30.jpg"
+  },
+  {
+    "code": "SCR-PCS-SS-M04X10",
+    "nameAr": "مسمار فيليبس غاطس ستانلس ستيل M4 × 10 مم",
+    "nameEn": "Phillips Countersunk Screw, Stainless Steel, M4 x 10 mm",
+    "descriptionAr": "مسمار فيليبس غاطس ستانلس ستيل M4 × 10 مم",
+    "descriptionEn": "Phillips Countersunk Screw, Stainless Steel, M4 x 10 mm",
+    "specifications": "M4 x 10 mm; Stainless Steel",
+    "page": 16,
+    "image": "images/SCR-PCS-SS-M04X10.jpg"
+  },
+  {
+    "code": "SCR-PCS-SS-M04X16",
+    "nameAr": "مسمار فيليبس غاطس ستانلس ستيل M4 × 16 مم",
+    "nameEn": "Phillips Countersunk Screw, Stainless Steel, M4 x 16 mm",
+    "descriptionAr": "مسمار فيليبس غاطس ستانلس ستيل M4 × 16 مم",
+    "descriptionEn": "Phillips Countersunk Screw, Stainless Steel, M4 x 16 mm",
+    "specifications": "M4 x 16 mm; Stainless Steel",
+    "page": 16,
+    "image": "images/SCR-PCS-SS-M04X16.jpg"
+  },
+  {
+    "code": "SCR-PPH-GS-M03X08",
+    "nameAr": "مسمار فيليبس برأس بان فولاذ مجلفن M3 × 8 مم",
+    "nameEn": "Phillips Pan Head Screw, Galvanized Steel, M3 x 8 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان فولاذ مجلفن M3 × 8 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Galvanized Steel, M3 x 8 mm",
+    "specifications": "M3 x 8 mm; Galvanized Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-GS-M03X08.jpg"
+  },
+  {
+    "code": "SCR-PPH-GS-M03X12",
+    "nameAr": "مسمار فيليبس برأس بان فولاذ مجلفن M3 × 12 مم",
+    "nameEn": "Phillips Pan Head Screw, Galvanized Steel, M3 x 12 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان فولاذ مجلفن M3 × 12 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Galvanized Steel, M3 x 12 mm",
+    "specifications": "M3 x 12 mm; Galvanized Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-GS-M03X12.jpg"
+  },
+  {
+    "code": "SCR-PPH-GS-M04X10",
+    "nameAr": "مسمار فيليبس برأس بان فولاذ مجلفن M4 × 10 مم",
+    "nameEn": "Phillips Pan Head Screw, Galvanized Steel, M4 x 10 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان فولاذ مجلفن M4 × 10 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Galvanized Steel, M4 x 10 mm",
+    "specifications": "M4 x 10 mm; Galvanized Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-GS-M04X10.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M03X06",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M3 × 6 مم SS304",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel SS304, M3 x 6 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M3 × 6 مم SS304",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel SS304, M3 x 6 mm",
+    "specifications": "M3 x 6 mm; Stainless Steel SS304",
+    "page": 16,
+    "image": "images/SCR-PPH-SS-M03X06.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M03X08",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M3 × 8 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M3 x 8 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M3 × 8 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M3 x 8 mm",
+    "specifications": "M3 x 8 mm; Stainless Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-SS-M03X08.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M03X10",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M3 × 10 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M3 x 10 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M3 × 10 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M3 x 10 mm",
+    "specifications": "M3 x 10 mm; Stainless Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-SS-M03X10.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X06",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 6 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 6 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 6 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 6 mm",
+    "specifications": "M4 x 6 mm; Stainless Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-SS-M04X06.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X08",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 8 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 8 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 8 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 8 mm",
+    "specifications": "M4 x 8 mm; Stainless Steel",
+    "page": 16,
+    "image": "images/SCR-PPH-SS-M04X08.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X10",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 10 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 10 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 10 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 10 mm",
+    "specifications": "M4 x 10 mm; Stainless Steel",
+    "page": 17,
+    "image": "images/SCR-PPH-SS-M04X10.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X12",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 12 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 12 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M4 × 12 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M4 x 12 mm",
+    "specifications": "M4 x 12 mm; Stainless Steel",
+    "page": 17,
+    "image": "images/SCR-PPH-SS-M04X12.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M05X10",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M5 × 10 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M5 x 10 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M5 × 10 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M5 x 10 mm",
+    "specifications": "M5 x 10 mm; Stainless Steel",
+    "page": 17,
+    "image": "images/SCR-PPH-SS-M05X10.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M05X12",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M5 × 12 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M5 x 12 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M5 × 12 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M5 x 12 mm",
+    "specifications": "M5 x 12 mm; Stainless Steel",
+    "page": 17,
+    "image": "images/SCR-PPH-SS-M05X12.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M05X25",
+    "nameAr": "مسمار فيليبس برأس بان ستانلس ستيل M5 × 25 مم",
+    "nameEn": "Phillips Pan Head Screw, Stainless Steel, M5 x 25 mm",
+    "descriptionAr": "مسمار فيليبس برأس بان ستانلس ستيل M5 × 25 مم",
+    "descriptionEn": "Phillips Pan Head Screw, Stainless Steel, M5 x 25 mm",
+    "specifications": "M5 x 25 mm; Stainless Steel",
+    "page": 17,
+    "image": "images/SCR-PPH-SS-M05X25.jpg"
+  },
+  {
+    "code": "SC-96",
+    "nameAr": "SC-96 — صنف مطابق لصفحة المصدر 17",
+    "nameEn": "SC-96 — Item per source catalog page 17",
+    "descriptionAr": "SC-96 — صنف مطابق لصفحة المصدر 17",
+    "descriptionEn": "SC-96 — Item per source catalog page 17",
+    "specifications": "Source page 17",
+    "page": 17,
+    "image": "images/SC-96.jpg"
+  },
+  {
+    "code": "SC-97",
+    "nameAr": "SC-97 — صنف مطابق لصفحة المصدر 17",
+    "nameEn": "SC-97 — Item per source catalog page 17",
+    "descriptionAr": "SC-97 — صنف مطابق لصفحة المصدر 17",
+    "descriptionEn": "SC-97 — Item per source catalog page 17",
+    "specifications": "Source page 17",
+    "page": 17,
+    "image": "images/SC-97.jpg"
+  },
+  {
+    "code": "SCI003006",
+    "nameAr": "مسمار ذاتي التقطيع فيليبس غاطس 3 × 30 مم، فولاذ سبائكي أسود",
+    "nameEn": "Self-Tapping Phillips Countersunk Screw 3 x 30 mm, Black Alloy Steel",
+    "descriptionAr": "مسمار ذاتي التقطيع فيليبس غاطس 3 × 30 مم، فولاذ سبائكي أسود",
+    "descriptionEn": "Self-Tapping Phillips Countersunk Screw 3 x 30 mm, Black Alloy Steel",
+    "specifications": "3 x 30 mm; Black Alloy Steel",
+    "page": 17,
+    "image": "images/SCI003006.jpg"
+  },
+  {
+    "code": "sp-165",
+    "nameAr": "sp-165 — صنف مطابق لصفحة المصدر 17",
+    "nameEn": "sp-165 — Item per source catalog page 17",
+    "descriptionAr": "sp-165 — صنف مطابق لصفحة المصدر 17",
+    "descriptionEn": "sp-165 — Item per source catalog page 17",
+    "specifications": "Source page 17",
+    "page": 17,
+    "image": "images/sp-165.jpg"
+  },
+  {
+    "code": "sp-167",
+    "nameAr": "sp-167 — صنف مطابق لصفحة المصدر 17",
+    "nameEn": "sp-167 — Item per source catalog page 17",
+    "descriptionAr": "sp-167 — صنف مطابق لصفحة المصدر 17",
+    "descriptionEn": "sp-167 — Item per source catalog page 17",
+    "specifications": "Source page 17",
+    "page": 17,
+    "image": "images/sp-167.jpg"
+  },
+  {
+    "code": "SSC035095",
+    "nameAr": "مسمار ذاتي الثقب M3.5 × 9.5 مم، فولاذ",
+    "nameEn": "Self-Drilling Screw M3.5 x 9.5 mm, Steel",
+    "descriptionAr": "مسمار ذاتي الثقب M3.5 × 9.5 مم، فولاذ",
+    "descriptionEn": "Self-Drilling Screw M3.5 x 9.5 mm, Steel",
+    "specifications": "M3.5 x 9.5 mm; Steel",
+    "page": 18,
+    "image": "images/SSC035095.jpg"
+  },
+  {
+    "code": "SSC035135",
+    "nameAr": "مسمار ذاتي التقطيع M3.5 × 13.5 مم، فولاذ",
+    "nameEn": "Self-Tapping Screw M3.5 x 13.5 mm, Steel",
+    "descriptionAr": "مسمار ذاتي التقطيع M3.5 × 13.5 مم، فولاذ",
+    "descriptionEn": "Self-Tapping Screw M3.5 x 13.5 mm, Steel",
+    "specifications": "M3.5 x 13.5 mm; Steel",
+    "page": 18,
+    "image": "images/SSC035135.jpg"
+  },
+  {
+    "code": "SW006",
+    "nameAr": "وردة مسطحة M6 ستانلس ستيل",
+    "nameEn": "Stainless Steel Flat Washer M6",
+    "descriptionAr": "وردة مسطحة M6 ستانلس ستيل",
+    "descriptionEn": "Stainless Steel Flat Washer M6",
+    "specifications": "M6; Stainless Steel",
+    "page": 18,
+    "image": "images/SW006.jpg"
+  },
+  {
+    "code": "SW-19",
+    "nameAr": "وردة مسننة 5 مم ستانلس ستيل",
+    "nameEn": "Serrated Washer 5 mm, Stainless Steel",
+    "descriptionAr": "وردة مسننة 5 مم ستانلس ستيل",
+    "descriptionEn": "Serrated Washer 5 mm, Stainless Steel",
+    "specifications": "M5; Stainless Steel",
+    "page": 18,
+    "image": "images/SW-19.jpg"
+  },
+  {
+    "code": "SW-22",
+    "nameAr": "وردة مسننة 5 مم فولاذ مجلفن",
+    "nameEn": "Serrated Washer 5 mm, Galvanized Steel",
+    "descriptionAr": "وردة مسننة 5 مم فولاذ مجلفن",
+    "descriptionEn": "Serrated Washer 5 mm, Galvanized Steel",
+    "specifications": "M5; Galvanized Steel",
+    "page": 18,
+    "image": "images/SW-22.jpg"
+  },
+  {
+    "code": "SW-47",
+    "nameAr": "وردة قفل مسننة للمسمار M4",
+    "nameEn": "Serrated Lock Washer for M4 Screw",
+    "descriptionAr": "وردة قفل مسننة للمسمار M4",
+    "descriptionEn": "Serrated Lock Washer for M4 Screw",
+    "specifications": "M4; Steel",
+    "page": 18,
+    "image": "images/SW-47.jpg"
+  },
+  {
+    "code": "SW-64",
+    "nameAr": "وردة مسننة للمسمار M8",
+    "nameEn": "Serrated Washer for M8 Screw",
+    "descriptionAr": "وردة مسننة للمسمار M8",
+    "descriptionEn": "Serrated Washer for M8 Screw",
+    "specifications": "M8; Steel",
+    "page": 18,
+    "image": "images/SW-64.jpg"
+  },
+  {
+    "code": "To-1303",
+    "nameAr": "To-1303 — صنف مطابق لصفحة المصدر 18",
+    "nameEn": "To-1303 — Item per source catalog page 18",
+    "descriptionAr": "To-1303 — صنف مطابق لصفحة المصدر 18",
+    "descriptionEn": "To-1303 — Item per source catalog page 18",
+    "specifications": "Source page 18",
+    "page": 18,
+    "image": "images/To-1303.jpg"
+  },
+  {
+    "code": "To-1849",
+    "nameAr": "To-1849 — صنف مطابق لصفحة المصدر 18",
+    "nameEn": "To-1849 — Item per source catalog page 18",
+    "descriptionAr": "To-1849 — صنف مطابق لصفحة المصدر 18",
+    "descriptionEn": "To-1849 — Item per source catalog page 18",
+    "specifications": "Source page 18",
+    "page": 18,
+    "image": "images/To-1849.jpg"
+  },
+  {
+    "code": "To-2320",
+    "nameAr": "To-2320 — صنف مطابق لصفحة المصدر 18",
+    "nameEn": "To-2320 — Item per source catalog page 18",
+    "descriptionAr": "To-2320 — صنف مطابق لصفحة المصدر 18",
+    "descriptionEn": "To-2320 — Item per source catalog page 18",
+    "specifications": "Source page 18",
+    "page": 18,
+    "image": "images/To-2320.jpg"
+  },
+  {
+    "code": "To-661",
+    "nameAr": "جلدة كابل معدنية IP68 مقاس M20",
+    "nameEn": "IP68 Metallic Cable Gland M20",
+    "descriptionAr": "جلدة كابل معدنية IP68 مقاس M20",
+    "descriptionEn": "IP68 Metallic Cable Gland M20",
+    "specifications": "M20; Metallic; IP68",
+    "page": 19,
+    "image": "images/To-661.jpg"
+  },
+  {
+    "code": "W004",
+    "nameAr": "وردة مسطحة M4، فولاذ",
+    "nameEn": "Flat Washer M4, Steel",
+    "descriptionAr": "وردة مسطحة M4، فولاذ",
+    "descriptionEn": "Flat Washer M4, Steel",
+    "specifications": "M4; Steel",
+    "page": 19,
+    "image": "images/W004.jpg"
+  },
+  {
+    "code": "W006",
+    "nameAr": "وردة مسطحة M6، فولاذ مجلفن",
+    "nameEn": "Flat Washer M6, Galvanized Steel",
+    "descriptionAr": "وردة مسطحة M6، فولاذ مجلفن",
+    "descriptionEn": "Flat Washer M6, Galvanized Steel",
+    "specifications": "M6; Galvanized Steel",
+    "page": 19,
+    "image": "images/W006.jpg"
+  },
+  {
+    "code": "W008",
+    "nameAr": "وردة مسطحة M8، فولاذ",
+    "nameEn": "Flat Washer M8, Steel",
+    "descriptionAr": "وردة مسطحة M8، فولاذ",
+    "descriptionEn": "Flat Washer M8, Steel",
+    "specifications": "M8; Steel",
+    "page": 19,
+    "image": "images/W008.jpg"
+  },
+  {
+    "code": "W-06",
+    "nameAr": "وردة مسطحة M6 ستانلس ستيل",
+    "nameEn": "Flat Washer M6, Stainless Steel",
+    "descriptionAr": "وردة مسطحة M6 ستانلس ستيل",
+    "descriptionEn": "Flat Washer M6, Stainless Steel",
+    "specifications": "M6; Stainless Steel",
+    "page": 19,
+    "image": "images/W-06.jpg"
+  },
+  {
+    "code": "W-07",
+    "nameAr": "وردة زنبركية ستانلس ستيل، قطر داخلي 10 مم",
+    "nameEn": "Spring Washer, Stainless Steel, ID 10 mm",
+    "descriptionAr": "وردة زنبركية ستانلس ستيل، قطر داخلي 10 مم",
+    "descriptionEn": "Spring Washer, Stainless Steel, ID 10 mm",
+    "specifications": "ID 10 mm; Stainless Steel",
+    "page": 19,
+    "image": "images/W-07.jpg"
+  },
+  {
+    "code": "W-161",
+    "nameAr": "وردة زنبركية 4 مم، فولاذ",
+    "nameEn": "Spring Washer 4 mm, Steel",
+    "descriptionAr": "وردة زنبركية 4 مم، فولاذ",
+    "descriptionEn": "Spring Washer 4 mm, Steel",
+    "specifications": "M4; Steel",
+    "page": 19,
+    "image": "images/W-161.jpg"
+  },
+  {
+    "code": "W-162",
+    "nameAr": "وردة زنبركية 3 مم، فولاذ",
+    "nameEn": "Spring Washer 3 mm, Steel",
+    "descriptionAr": "وردة زنبركية 3 مم، فولاذ",
+    "descriptionEn": "Spring Washer 3 mm, Steel",
+    "specifications": "M3; Steel",
+    "page": 19,
+    "image": "images/W-162.jpg"
+  },
+  {
+    "code": "W-52",
+    "nameAr": "وردة مسطحة للمسمار M20",
+    "nameEn": "Flat Washer for M20 Screw",
+    "descriptionAr": "وردة مسطحة للمسمار M20",
+    "descriptionEn": "Flat Washer for M20 Screw",
+    "specifications": "M20; Steel",
+    "page": 19,
+    "image": "images/W-52.jpg"
+  },
+  {
+    "code": "C165",
+    "nameAr": "C165 — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "C165 — Item per source catalog page 20",
+    "descriptionAr": "C165 — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "C165 — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/C165.jpg"
+  },
+  {
+    "code": "W-72",
+    "nameAr": "وردة مسطحة 3 مم",
+    "nameEn": "Flat Washer 3 mm",
+    "descriptionAr": "وردة مسطحة 3 مم",
+    "descriptionEn": "Flat Washer 3 mm",
+    "specifications": "M3; Steel",
+    "page": 20,
+    "image": "images/W-72.jpg"
+  },
+  {
+    "code": "WL4080",
+    "nameAr": "WL4080 — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "WL4080 — Item per source catalog page 20",
+    "descriptionAr": "WL4080 — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "WL4080 — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/WL4080.jpg"
+  },
+  {
+    "code": "WS004",
+    "nameAr": "وردة مسننة 4 مم",
+    "nameEn": "Serrated Washer 4 mm",
+    "descriptionAr": "وردة مسننة 4 مم",
+    "descriptionEn": "Serrated Washer 4 mm",
+    "specifications": "M4; Steel",
+    "page": 20,
+    "image": "images/WS004.jpg"
+  },
+  {
+    "code": "WS008",
+    "nameAr": "وردة مسطحة M8 ستانلس ستيل",
+    "nameEn": "Stainless Steel Flat Washer M8",
+    "descriptionAr": "وردة مسطحة M8 ستانلس ستيل",
+    "descriptionEn": "Stainless Steel Flat Washer M8",
+    "specifications": "M8; Stainless Steel",
+    "page": 20,
+    "image": "images/WS008.jpg"
+  },
+  {
+    "code": "WL50100",
+    "nameAr": "WL50100 — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "WL50100 — Item per source catalog page 20",
+    "descriptionAr": "WL50100 — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "WL50100 — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/WL50100.jpg"
+  },
+  {
+    "code": "WP-HS06",
+    "nameAr": "غلاف انكماش حراري أسود مقاوم للماء لأطراف أسلاك 6.0 مم²",
+    "nameEn": "Waterproof Heat Shrink Sleeve for 6.0 mm² Wire Terminals",
+    "descriptionAr": "غلاف انكماش حراري أسود مقاوم للماء لأطراف أسلاك 6.0 مم²",
+    "descriptionEn": "Waterproof Heat Shrink Sleeve for 6.0 mm² Wire Terminals",
+    "specifications": "6.0 mm²; Black",
+    "page": 20,
+    "image": "images/WP-HS06.jpg"
+  },
+  {
+    "code": "To-670",
+    "nameAr": "To-670 — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "To-670 — Item per source catalog page 20",
+    "descriptionAr": "To-670 — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "To-670 — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/To-670.jpg"
+  },
+  {
+    "code": "To-670.i",
+    "nameAr": "To-670.i — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "To-670.i — Item per source catalog page 20",
+    "descriptionAr": "To-670.i — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "To-670.i — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/To-670.i.jpg"
+  },
+  {
+    "code": "To-68",
+    "nameAr": "To-68 — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "To-68 — Item per source catalog page 20",
+    "descriptionAr": "To-68 — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "To-68 — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/To-68.jpg"
+  },
+  {
+    "code": "To-99",
+    "nameAr": "To-99 — صنف مطابق لصفحة المصدر 20",
+    "nameEn": "To-99 — Item per source catalog page 20",
+    "descriptionAr": "To-99 — صنف مطابق لصفحة المصدر 20",
+    "descriptionEn": "To-99 — Item per source catalog page 20",
+    "specifications": "Source page 20",
+    "page": 20,
+    "image": "images/To-99.jpg"
+  },
+  {
+    "code": "0100010",
+    "nameAr": "موصل IP68 ثنائي الاتجاه، 3 أقطاب",
+    "nameEn": "2 Ways IP Connector, 3 Poles",
+    "descriptionAr": "موصل IP68 ثنائي الاتجاه، 3 أقطاب",
+    "descriptionEn": "2 Ways IP Connector, 3 Poles",
+    "specifications": "20A; Cord Ø8 mm; IP68; DR-C05-03",
+    "page": 21,
+    "image": "images/0100010.jpg"
+  },
+  {
+    "code": "0100020",
+    "nameAr": "موصل IP68 ثنائي الاتجاه، 4 أقطاب",
+    "nameEn": "2 Ways IP Connector, 4 Poles",
+    "descriptionAr": "موصل IP68 ثنائي الاتجاه، 4 أقطاب",
+    "descriptionEn": "2 Ways IP Connector, 4 Poles",
+    "specifications": "4 poles; IP68",
+    "page": 21,
+    "image": "images/0100020.jpg"
+  },
+  {
+    "code": "0100030",
+    "nameAr": "موصل سريع بدون مسامير ثنائي الاتجاه، 5 أقطاب",
+    "nameEn": "Screwless Quick Wiring 2 Ways IP Connector, 5 Poles",
+    "descriptionAr": "موصل سريع بدون مسامير ثنائي الاتجاه، 5 أقطاب",
+    "descriptionEn": "Screwless Quick Wiring 2 Ways IP Connector, 5 Poles",
+    "specifications": "5 poles; IP68",
+    "page": 21,
+    "image": "images/0100030.jpg"
+  },
+  {
+    "code": "0101010",
+    "nameAr": "موصل IP68 ثلاثي الاتجاه، 3 أقطاب",
+    "nameEn": "3 Ways IP Connector, 3 Poles",
+    "descriptionAr": "موصل IP68 ثلاثي الاتجاه، 3 أقطاب",
+    "descriptionEn": "3 Ways IP Connector, 3 Poles",
+    "specifications": "20A; Cord Ø8 mm; IP68; DR-T15-03",
+    "page": 21,
+    "image": "images/0101010.jpg"
+  },
+  {
+    "code": "0101020",
+    "nameAr": "موصل IP68 ثلاثي الاتجاه، 4 أقطاب",
+    "nameEn": "3 Ways IP Connector, 4 Poles",
+    "descriptionAr": "موصل IP68 ثلاثي الاتجاه، 4 أقطاب",
+    "descriptionEn": "3 Ways IP Connector, 4 Poles",
+    "specifications": "Cord Ø10 mm; IP68; DR-T15-04",
+    "page": 21,
+    "image": "images/0101020.jpg"
+  },
+  {
+    "code": "0110010",
+    "nameAr": "0110010 — صنف مطابق لصفحة المصدر 21",
+    "nameEn": "0110010 — Item per source catalog page 21",
+    "descriptionAr": "0110010 — صنف مطابق لصفحة المصدر 21",
+    "descriptionEn": "0110010 — Item per source catalog page 21",
+    "specifications": "Source page 21",
+    "page": 21,
+    "image": "images/0110010.jpg"
+  },
+  {
+    "code": "CI001",
+    "nameAr": "CI001 — صنف مطابق لصفحة المصدر 21",
+    "nameEn": "CI001 — Item per source catalog page 21",
+    "descriptionAr": "CI001 — صنف مطابق لصفحة المصدر 21",
+    "descriptionEn": "CI001 — Item per source catalog page 21",
+    "specifications": "Source page 21",
+    "page": 21,
+    "image": "images/CI001.jpg"
+  },
+  {
+    "code": "C-M19-8b",
+    "nameAr": "موصل IP68 سهل التوصيل، 3 أقطاب، أسود",
+    "nameEn": "IP68 Easy Connect Connector, 3 Poles",
+    "descriptionAr": "موصل IP68 سهل التوصيل، 3 أقطاب، أسود",
+    "descriptionEn": "IP68 Easy Connect Connector, 3 Poles",
+    "specifications": "Cable Ø7-10.5 mm; PA66 Nylon; Black; FSAC",
+    "page": 21,
+    "image": "images/C-M19-8b.jpg"
+  },
+  {
+    "code": "DR-B501",
+    "nameAr": "DR-B501 — صنف مطابق لصفحة المصدر 21",
+    "nameEn": "DR-B501 — Item per source catalog page 21",
+    "descriptionAr": "DR-B501 — صنف مطابق لصفحة المصدر 21",
+    "descriptionEn": "DR-B501 — Item per source catalog page 21",
+    "specifications": "Source page 21",
+    "page": 21,
+    "image": "images/DR-B501.jpg"
+  },
+  {
+    "code": "DR-M02-02",
+    "nameAr": "موصل متسلسل IP68 شكل F، مدخل ومخرجان",
+    "nameEn": "IP68 Series Connector F-Shape, 1 Input / 2 Output",
+    "descriptionAr": "موصل متسلسل IP68 شكل F، مدخل ومخرجان",
+    "descriptionEn": "IP68 Series Connector F-Shape, 1 Input / 2 Output",
+    "specifications": "2 poles; Cable Ø8 mm; Wire 1.5-3 mm²; RLD",
+    "page": 22,
+    "image": "images/DR-M02-02.jpg"
+  },
+  {
+    "code": "DR-M023T-02",
+    "nameAr": "موصل متسلسل IP68، مدخل وثلاثة مخارج",
+    "nameEn": "Series IP68 Connector, 1 Input / 3 Output",
+    "descriptionAr": "موصل متسلسل IP68، مدخل وثلاثة مخارج",
+    "descriptionEn": "Series IP68 Connector, 1 Input / 3 Output",
+    "specifications": "2 poles; Cable Ø5-11.5 mm; 10A; 152x57 mm",
+    "page": 22,
+    "image": "images/DR-M023T-02.jpg"
+  },
+  {
+    "code": "DR-M024T-02",
+    "nameAr": "موصل متسلسل IP68، مدخل وأربعة مخارج",
+    "nameEn": "Series IP68 Connector, 1 Input / 4 Output",
+    "descriptionAr": "موصل متسلسل IP68، مدخل وأربعة مخارج",
+    "descriptionEn": "Series IP68 Connector, 1 Input / 4 Output",
+    "specifications": "2 poles; Cable Ø5-11.5 mm; 10A; 190x57 mm",
+    "page": 22,
+    "image": "images/DR-M024T-02.jpg"
+  },
+  {
+    "code": "DR-M024T-P-02",
+    "nameAr": "موصل IP68 متوازي، مدخل وأربعة مخارج",
+    "nameEn": "IP68 Parallel Connector, 1 Input / 4 Output",
+    "descriptionAr": "موصل IP68 متوازي، مدخل وأربعة مخارج",
+    "descriptionEn": "IP68 Parallel Connector, 1 Input / 4 Output",
+    "specifications": "2 poles; 10A; Cord Ø10 mm; RLD",
+    "page": 22,
+    "image": "images/DR-M024T-P-02.jpg"
+  },
+  {
+    "code": "DR-M026T-02",
+    "nameAr": "موصل متسلسل IP68، مدخل وستة مخارج",
+    "nameEn": "Series IP68 Connector, 1 Input / 6 Output",
+    "descriptionAr": "موصل متسلسل IP68، مدخل وستة مخارج",
+    "descriptionEn": "Series IP68 Connector, 1 Input / 6 Output",
+    "specifications": "2 poles; Cable Ø5-11.5 mm; 10A; 265x57 mm",
+    "page": 22,
+    "image": "images/DR-M026T-02.jpg"
+  },
+  {
+    "code": "DR-M20-02",
+    "nameAr": "موصل متسلسل ثنائي الأطراف IP68",
+    "nameEn": "Series 2-Pin Connector, IP68",
+    "descriptionAr": "موصل متسلسل ثنائي الأطراف IP68",
+    "descriptionEn": "Series 2-Pin Connector, IP68",
+    "specifications": "2 pins; 10A; Cable Ø5-11.5 mm",
+    "page": 22,
+    "image": "images/DR-M20-02.jpg"
+  },
+  {
+    "code": "FY-M8A05x1.25",
+    "nameAr": "جلدة كابل IP67 بقلاووظ M8 × 1.25",
+    "nameEn": "IP67 Cable Gland M8 x 1.25",
+    "descriptionAr": "جلدة كابل IP67 بقلاووظ M8 × 1.25",
+    "descriptionEn": "IP67 Cable Gland M8 x 1.25",
+    "specifications": "Cable range 3.5-5 mm; IP67; FSAC",
+    "page": 22,
+    "image": "images/FY-M8A05x1.25.jpg"
+  },
+  {
+    "code": "IPGL",
+    "nameAr": "جلدة كابل 16 مم IP68",
+    "nameEn": "IP Gland 16 mm",
+    "descriptionAr": "جلدة كابل 16 مم IP68",
+    "descriptionEn": "IP Gland 16 mm",
+    "specifications": "16 mm; IP68",
+    "page": 22,
+    "image": "images/IPGL.jpg"
+  },
+  {
+    "code": "OJ-M713B-7P",
+    "nameAr": "OJ-M713B-7P — صنف مطابق لصفحة المصدر 22",
+    "nameEn": "OJ-M713B-7P — Item per source catalog page 22",
+    "descriptionAr": "OJ-M713B-7P — صنف مطابق لصفحة المصدر 22",
+    "descriptionEn": "OJ-M713B-7P — Item per source catalog page 22",
+    "specifications": "Source page 22",
+    "page": 22,
+    "image": "images/OJ-M713B-7P.jpg"
+  },
+  {
+    "code": "OJ-M715-C",
+    "nameAr": "OJ-M715-C — صنف مطابق لصفحة المصدر 23",
+    "nameEn": "OJ-M715-C — Item per source catalog page 23",
+    "descriptionAr": "OJ-M715-C — صنف مطابق لصفحة المصدر 23",
+    "descriptionEn": "OJ-M715-C — Item per source catalog page 23",
+    "specifications": "Source page 23",
+    "page": 23,
+    "image": "images/OJ-M715-C.jpg"
+  },
+  {
+    "code": "SCR-PCS-SS-M2.5X06",
+    "nameAr": "مسمار فيليبس غاطس ستانلس ستيل M2.5 × 6 مم SS304",
+    "nameEn": "Phillips Countersunk Screw, Stainless Steel SS304, M2.5 x 6 mm",
+    "descriptionAr": "مسمار فيليبس غاطس ستانلس ستيل M2.5 × 6 مم SS304",
+    "descriptionEn": "Phillips Countersunk Screw, Stainless Steel SS304, M2.5 x 6 mm",
+    "specifications": "M2.5 x 6 mm; Stainless Steel SS304",
+    "page": 23,
+    "image": "images/SCR-PCS-SS-M2.5X06.jpg"
+  },
+  {
+    "code": "SCR-ST-CSB-M3.5X8",
+    "nameAr": "مسمار ذاتي التقطيع فيليبس برأس بان M3.5 × 8 مم، فولاذ كربوني مطلي زنك أسود",
+    "nameEn": "Self-Tapping Phillips Pan Head Screw M3.5 x 8 mm, Carbon Steel, Black Zinc",
+    "descriptionAr": "مسمار ذاتي التقطيع فيليبس برأس بان M3.5 × 8 مم، فولاذ كربوني مطلي زنك أسود",
+    "descriptionEn": "Self-Tapping Phillips Pan Head Screw M3.5 x 8 mm, Carbon Steel, Black Zinc",
+    "specifications": "M3.5 x 8 mm; Carbon Steel; Black Zinc",
+    "page": 23,
+    "image": "images/SCR-ST-CSB-M3.5X8.jpg"
+  },
+  {
+    "code": "To-106",
+    "nameAr": "جلدة كابل ستانلس ستيل PG7، IP68",
+    "nameEn": "Stainless Steel Cable Gland PG7, IP68",
+    "descriptionAr": "جلدة كابل ستانلس ستيل PG7، IP68",
+    "descriptionEn": "Stainless Steel Cable Gland PG7, IP68",
+    "specifications": "PG7; Stainless Steel; IP68",
+    "page": 23,
+    "image": "images/To-106.jpg"
+  },
+  {
+    "code": "To-576",
+    "nameAr": "To-576 — صنف مطابق لصفحة المصدر 23",
+    "nameEn": "To-576 — Item per source catalog page 23",
+    "descriptionAr": "To-576 — صنف مطابق لصفحة المصدر 23",
+    "descriptionEn": "To-576 — Item per source catalog page 23",
+    "specifications": "Source page 23",
+    "page": 23,
+    "image": "images/To-576.jpg"
+  },
+  {
+    "code": "To-586",
+    "nameAr": "جلدة كابل ستانلس ستيل PG9، IP67",
+    "nameEn": "Stainless Steel Cable Gland PG9, IP67",
+    "descriptionAr": "جلدة كابل ستانلس ستيل PG9، IP67",
+    "descriptionEn": "Stainless Steel Cable Gland PG9, IP67",
+    "specifications": "PG9; Stainless Steel; IP67",
+    "page": 23,
+    "image": "images/To-586.jpg"
+  },
+  {
+    "code": "To-660",
+    "nameAr": "جلدة كابل بلاستيك سوداء M16 × 1.5، IP68",
+    "nameEn": "Plastic Black Cable Gland M16 x 1.5, IP68",
+    "descriptionAr": "جلدة كابل بلاستيك سوداء M16 × 1.5، IP68",
+    "descriptionEn": "Plastic Black Cable Gland M16 x 1.5, IP68",
+    "specifications": "M16 x 1.5; Plastic; Black; IP68",
+    "page": 23,
+    "image": "images/To-660.jpg"
+  },
+  {
+    "code": "YL17B-1200-16",
+    "nameAr": "YL17B-1200-16 — صنف مطابق لصفحة المصدر 23",
+    "nameEn": "YL17B-1200-16 — Item per source catalog page 23",
+    "descriptionAr": "YL17B-1200-16 — صنف مطابق لصفحة المصدر 23",
+    "descriptionEn": "YL17B-1200-16 — Item per source catalog page 23",
+    "specifications": "Source page 23",
+    "page": 23,
+    "image": "images/YL17B-1200-16.jpg"
+  },
+  {
+    "code": "ZD-0487S-007N",
+    "nameAr": "ZD-0487S-007N — صنف مطابق لصفحة المصدر 23",
+    "nameEn": "ZD-0487S-007N — Item per source catalog page 23",
+    "descriptionAr": "ZD-0487S-007N — صنف مطابق لصفحة المصدر 23",
+    "descriptionEn": "ZD-0487S-007N — Item per source catalog page 23",
+    "specifications": "Source page 23",
+    "page": 23,
+    "image": "images/ZD-0487S-007N.jpg"
+  },
+  {
+    "code": "0001SLE",
+    "nameAr": "سيليكون حراري شفاف CETO-SIL 400 CMB",
+    "nameEn": "Transparent Thermal Silicone CETO-SIL 400 CMB",
+    "descriptionAr": "سيليكون حراري شفاف CETO-SIL 400 CMB",
+    "descriptionEn": "Transparent Thermal Silicone CETO-SIL 400 CMB",
+    "specifications": "Thermal Silicone; Transparent",
+    "page": 24,
+    "image": "images/0001SLE.jpg"
+  },
+  {
+    "code": "0003M",
+    "nameAr": "ترمينال بلوك قطب واحد، أسود",
+    "nameEn": "Terminal Block 1 Pole, Black",
+    "descriptionAr": "ترمينال بلوك قطب واحد، أسود",
+    "descriptionEn": "Terminal Block 1 Pole, Black",
+    "specifications": "380V; 10A; Rossita",
+    "page": 24,
+    "image": "images/0003M.jpg"
+  },
+  {
+    "code": "0100011",
+    "nameAr": "كونكتور ثنائي الاتجاه، 3 أقطاب، حجم صغير",
+    "nameEn": "2 Way 3 Poles Connector, Small Size",
+    "descriptionAr": "كونكتور ثنائي الاتجاه، 3 أقطاب، حجم صغير",
+    "descriptionEn": "2 Way 3 Poles Connector, Small Size",
+    "specifications": "3 poles",
+    "page": 24,
+    "image": "images/0100011.jpg"
+  },
+  {
+    "code": "28003024",
+    "nameAr": "قاعدة SLE G7 لـ LES09، حامل COP صغير",
+    "nameEn": "SLE G7 Housing for LES09, Small COP Holder",
+    "descriptionAr": "قاعدة SLE G7 لـ LES09، حامل COP صغير",
+    "descriptionEn": "SLE G7 Housing for LES09, Small COP Holder",
+    "specifications": "Polycarbonate",
+    "page": 24,
+    "image": "images/28003024.jpg"
+  },
+  {
+    "code": "28003026",
+    "nameAr": "قاعدة SLE G7 لـ LES13/15، حامل COP كبير",
+    "nameEn": "SLE G7 Housing for LES13/15, Large COP Holder",
+    "descriptionAr": "قاعدة SLE G7 لـ LES13/15، حامل COP كبير",
+    "descriptionEn": "SLE G7 Housing for LES13/15, Large COP Holder",
+    "specifications": "Polycarbonate",
+    "page": 24,
+    "image": "images/28003026.jpg"
+  },
+  {
+    "code": "32137-865001",
+    "nameAr": "32137-865001 — صنف مطابق لصفحة المصدر 24",
+    "nameEn": "32137-865001 — Item per source catalog page 24",
+    "descriptionAr": "32137-865001 — صنف مطابق لصفحة المصدر 24",
+    "descriptionEn": "32137-865001 — Item per source catalog page 24",
+    "specifications": "Source page 24",
+    "page": 24,
+    "image": "images/32137-865001.jpg"
+  },
+  {
+    "code": "5952-02",
+    "nameAr": "5952-02 — صنف مطابق لصفحة المصدر 24",
+    "nameEn": "5952-02 — Item per source catalog page 24",
+    "descriptionAr": "5952-02 — صنف مطابق لصفحة المصدر 24",
+    "descriptionEn": "5952-02 — Item per source catalog page 24",
+    "specifications": "Source page 24",
+    "page": 24,
+    "image": "images/5952-02.jpg"
+  },
+  {
+    "code": "6120CaTie",
+    "nameAr": "6120CaTie — صنف مطابق لصفحة المصدر 24",
+    "nameEn": "6120CaTie — Item per source catalog page 24",
+    "descriptionAr": "6120CaTie — صنف مطابق لصفحة المصدر 24",
+    "descriptionEn": "6120CaTie — Item per source catalog page 24",
+    "specifications": "Source page 24",
+    "page": 24,
+    "image": "images/6120CaTie.jpg"
+  },
+  {
+    "code": "6120Sus",
+    "nameAr": "6120Sus — صنف مطابق لصفحة المصدر 24",
+    "nameEn": "6120Sus — Item per source catalog page 24",
+    "descriptionAr": "6120Sus — صنف مطابق لصفحة المصدر 24",
+    "descriptionEn": "6120Sus — Item per source catalog page 24",
+    "specifications": "Source page 24",
+    "page": 24,
+    "image": "images/6120Sus.jpg"
+  },
+  {
+    "code": "6130DIH",
+    "nameAr": "6130DIH — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "6130DIH — Item per source catalog page 25",
+    "descriptionAr": "6130DIH — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "6130DIH — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/6130DIH.jpg"
+  },
+  {
+    "code": "AC M Socket-SA",
+    "nameAr": "AC M Socket-SA — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "AC M Socket-SA — Item per source catalog page 25",
+    "descriptionAr": "AC M Socket-SA — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "AC M Socket-SA — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/AC_M_Socket-SA.jpg"
+  },
+  {
+    "code": "Cab-08",
+    "nameAr": "كابل نحاس 2 × 0.5 مم، أسود، السويدي",
+    "nameEn": "Cable 2 x 0.5 mm, CU/PVC/PVC, Black, El Sewedy",
+    "descriptionAr": "كابل نحاس 2 × 0.5 مم، أسود، السويدي",
+    "descriptionEn": "Cable 2 x 0.5 mm, CU/PVC/PVC, Black, El Sewedy",
+    "specifications": "300/500V; 105°C; Inner Black & Red",
+    "page": 25,
+    "image": "images/Cab-08.jpg"
+  },
+  {
+    "code": "CL002",
+    "nameAr": "CL002 — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "CL002 — Item per source catalog page 25",
+    "descriptionAr": "CL002 — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "CL002 — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/CL002.jpg"
+  },
+  {
+    "code": "Com",
+    "nameAr": "معجون أبيض 250 جم، Mido Coatings",
+    "nameEn": "White Compound 250 gm, Mido Coatings",
+    "descriptionAr": "معجون أبيض 250 جم، Mido Coatings",
+    "descriptionEn": "White Compound 250 gm, Mido Coatings",
+    "specifications": "250 gm; White",
+    "page": 25,
+    "image": "images/Com.jpg"
+  },
+  {
+    "code": "COM01",
+    "nameAr": "شحم حراري HY610",
+    "nameEn": "Thermal Grease HY610",
+    "descriptionAr": "شحم حراري HY610",
+    "descriptionEn": "Thermal Grease HY610",
+    "specifications": "Thermal conductivity >3.05 W/m²K",
+    "page": 25,
+    "image": "images/COM01.jpg"
+  },
+  {
+    "code": "COM04",
+    "nameAr": "شحم حراري MT-3202، 1 كجم",
+    "nameEn": "Thermal Grease MT-3202, 1 kg",
+    "descriptionAr": "شحم حراري MT-3202، 1 كجم",
+    "descriptionEn": "Thermal Grease MT-3202, 1 kg",
+    "specifications": "2.0 ± 0.2 W/m-K; 1 kg",
+    "page": 25,
+    "image": "images/COM04.jpg"
+  },
+  {
+    "code": "DFC14",
+    "nameAr": "DFC14 — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "DFC14 — Item per source catalog page 25",
+    "descriptionAr": "DFC14 — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "DFC14 — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/DFC14.jpg"
+  },
+  {
+    "code": "DFC2020",
+    "nameAr": "DFC2020 — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "DFC2020 — Item per source catalog page 25",
+    "descriptionAr": "DFC2020 — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "DFC2020 — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/DFC2020.jpg"
+  },
+  {
+    "code": "FI06",
+    "nameAr": "FI06 — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "FI06 — Item per source catalog page 25",
+    "descriptionAr": "FI06 — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "FI06 — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/FI06.jpg"
+  },
+  {
+    "code": "FI-21",
+    "nameAr": "FI-21 — صنف مطابق لصفحة المصدر 25",
+    "nameEn": "FI-21 — Item per source catalog page 25",
+    "descriptionAr": "FI-21 — صنف مطابق لصفحة المصدر 25",
+    "descriptionEn": "FI-21 — Item per source catalog page 25",
+    "specifications": "Source page 25",
+    "page": 25,
+    "image": "images/FI-21.jpg"
+  },
+  {
+    "code": "GL06",
+    "nameAr": "جلدة مطاطية للكابل قطر داخلي 6 مم وخارجي 14 مم",
+    "nameEn": "Rubber Gland, ID 6 mm, OD 14 mm",
+    "descriptionAr": "جلدة مطاطية للكابل قطر داخلي 6 مم وخارجي 14 مم",
+    "descriptionEn": "Rubber Gland, ID 6 mm, OD 14 mm",
+    "specifications": "ID 6 mm; OD 14 mm",
+    "page": 26,
+    "image": "images/GL06.jpg"
+  },
+  {
+    "code": "GL10",
+    "nameAr": "جلدة مطاطية للكابل قطر داخلي 10 مم وخارجي 21 مم",
+    "nameEn": "Rubber Gland, ID 10 mm, OD 21 mm",
+    "descriptionAr": "جلدة مطاطية للكابل قطر داخلي 10 مم وخارجي 21 مم",
+    "descriptionEn": "Rubber Gland, ID 10 mm, OD 21 mm",
+    "specifications": "ID 10 mm; OD 21 mm",
+    "page": 26,
+    "image": "images/GL10.jpg"
+  },
+  {
+    "code": "GL16",
+    "nameAr": "جلدة كابل 16 مم",
+    "nameEn": "Cable Gland 16 mm",
+    "descriptionAr": "جلدة كابل 16 مم",
+    "descriptionEn": "Cable Gland 16 mm",
+    "specifications": "16 mm",
+    "page": 26,
+    "image": "images/GL16.jpg"
+  },
+  {
+    "code": "HS03",
+    "nameAr": "أنبوب انكماش حراري 3 مم",
+    "nameEn": "Heat Shrink Tube 3 mm",
+    "descriptionAr": "أنبوب انكماش حراري 3 مم",
+    "descriptionEn": "Heat Shrink Tube 3 mm",
+    "specifications": "Diameter 3 mm",
+    "page": 26,
+    "image": "images/HS03.jpg"
+  },
+  {
+    "code": "HS04",
+    "nameAr": "أنبوب انكماش حراري 4 مم",
+    "nameEn": "Heat Shrink Tube 4 mm",
+    "descriptionAr": "أنبوب انكماش حراري 4 مم",
+    "descriptionEn": "Heat Shrink Tube 4 mm",
+    "specifications": "Diameter 4 mm",
+    "page": 26,
+    "image": "images/HS04.jpg"
+  },
+  {
+    "code": "HS05",
+    "nameAr": "أنبوب انكماش حراري 5 مم",
+    "nameEn": "Heat Shrink Tube 5 mm",
+    "descriptionAr": "أنبوب انكماش حراري 5 مم",
+    "descriptionEn": "Heat Shrink Tube 5 mm",
+    "specifications": "Diameter 5 mm",
+    "page": 26,
+    "image": "images/HS05.jpg"
+  },
+  {
+    "code": "HS06",
+    "nameAr": "أنبوب انكماش حراري 6 مم",
+    "nameEn": "Heat Shrink Tube 6 mm",
+    "descriptionAr": "أنبوب انكماش حراري 6 مم",
+    "descriptionEn": "Heat Shrink Tube 6 mm",
+    "specifications": "Diameter 6 mm",
+    "page": 26,
+    "image": "images/HS06.jpg"
+  },
+  {
+    "code": "N003-01",
+    "nameAr": "N003-01 — صنف مطابق لصفحة المصدر 26",
+    "nameEn": "N003-01 — Item per source catalog page 26",
+    "descriptionAr": "N003-01 — صنف مطابق لصفحة المصدر 26",
+    "descriptionEn": "N003-01 — Item per source catalog page 26",
+    "specifications": "Source page 26",
+    "page": 26,
+    "image": "images/N003-01.jpg"
+  },
+  {
+    "code": "OJ-602B-2P",
+    "nameAr": "OJ-602B-2P — صنف مطابق لصفحة المصدر 26",
+    "nameEn": "OJ-602B-2P — Item per source catalog page 26",
+    "descriptionAr": "OJ-602B-2P — صنف مطابق لصفحة المصدر 26",
+    "descriptionEn": "OJ-602B-2P — Item per source catalog page 26",
+    "specifications": "Source page 26",
+    "page": 26,
+    "image": "images/OJ-602B-2P.jpg"
+  },
+  {
+    "code": "0-101",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 4 مم، سمك 2 مم",
+    "nameEn": "Rubber O-Ring, ID 4 mm, Thickness 2 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 4 مم، سمك 2 مم",
+    "descriptionEn": "Rubber O-Ring, ID 4 mm, Thickness 2 mm",
+    "specifications": "ID Ø4 mm; Thickness 2 mm",
+    "page": 27,
+    "image": "images/0-101.jpg"
+  },
+  {
+    "code": "0-110",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 3 مم، سمك 3 مم",
+    "nameEn": "Rubber O-Ring, ID 3 mm, Thickness 3 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 3 مم، سمك 3 مم",
+    "descriptionEn": "Rubber O-Ring, ID 3 mm, Thickness 3 mm",
+    "specifications": "ID Ø3 mm; Thickness 3 mm",
+    "page": 27,
+    "image": "images/0-110.jpg"
+  },
+  {
+    "code": "0-120",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 40 مم، سمك 2.5 مم",
+    "nameEn": "Rubber O-Ring, ID 40 mm, Thickness 2.5 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 40 مم، سمك 2.5 مم",
+    "descriptionEn": "Rubber O-Ring, ID 40 mm, Thickness 2.5 mm",
+    "specifications": "ID Ø40 mm; Thickness 2.5 mm",
+    "page": 27,
+    "image": "images/0-120.jpg"
+  },
+  {
+    "code": "0-157",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 45 مم، سمك 3 مم",
+    "nameEn": "Rubber O-Ring, ID 45 mm, Thickness 3 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 45 مم، سمك 3 مم",
+    "descriptionEn": "Rubber O-Ring, ID 45 mm, Thickness 3 mm",
+    "specifications": "ID Ø45 mm; Thickness 3 mm",
+    "page": 27,
+    "image": "images/0-157.jpg"
+  },
+  {
+    "code": "0-159",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 40 مم، سمك 2 مم",
+    "nameEn": "Rubber O-Ring, ID 40 mm, Thickness 2 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 40 مم، سمك 2 مم",
+    "descriptionEn": "Rubber O-Ring, ID 40 mm, Thickness 2 mm",
+    "specifications": "ID Ø40 mm; Thickness 2 mm",
+    "page": 27,
+    "image": "images/0-159.jpg"
+  },
+  {
+    "code": "0-171",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 55 مم، سمك 1.5 مم",
+    "nameEn": "Rubber O-Ring, ID 55 mm, Thickness 1.5 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 55 مم، سمك 1.5 مم",
+    "descriptionEn": "Rubber O-Ring, ID 55 mm, Thickness 1.5 mm",
+    "specifications": "ID Ø55 mm; Thickness 1.5 mm",
+    "page": 27,
+    "image": "images/0-171.jpg"
+  },
+  {
+    "code": "0-187",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 35 مم، سمك 2 مم",
+    "nameEn": "Rubber O-Ring, ID 35 mm, Thickness 2 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 35 مم، سمك 2 مم",
+    "descriptionEn": "Rubber O-Ring, ID 35 mm, Thickness 2 mm",
+    "specifications": "ID Ø35 mm; Thickness 2 mm",
+    "page": 27,
+    "image": "images/0-187.jpg"
+  },
+  {
+    "code": "0-191",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 25 مم، سمك 2 مم",
+    "nameEn": "Rubber O-Ring, ID 25 mm, Thickness 2 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 25 مم، سمك 2 مم",
+    "descriptionEn": "Rubber O-Ring, ID 25 mm, Thickness 2 mm",
+    "specifications": "ID Ø25 mm; Thickness 2 mm",
+    "page": 27,
+    "image": "images/0-191.jpg"
+  },
+  {
+    "code": "0-192",
+    "nameAr": "حلقة مطاطية O-Ring قطر داخلي 25 مم، سمك 1.5 مم",
+    "nameEn": "Rubber O-Ring, ID 25 mm, Thickness 1.5 mm",
+    "descriptionAr": "حلقة مطاطية O-Ring قطر داخلي 25 مم، سمك 1.5 مم",
+    "descriptionEn": "Rubber O-Ring, ID 25 mm, Thickness 1.5 mm",
+    "specifications": "ID Ø25 mm; Thickness 1.5 mm",
+    "page": 27,
+    "image": "images/0-192.jpg"
+  },
+  {
+    "code": "SC-300",
+    "nameAr": "SC-300 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "SC-300 — Item per source catalog page 28",
+    "descriptionAr": "SC-300 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "SC-300 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/SC-300.jpg"
+  },
+  {
+    "code": "SCR-AHC-AS-M03X10",
+    "nameAr": "مسمار ألن رأس أسطواني فولاذ سبائكي أسود M3 × 10 مم",
+    "nameEn": "Allen Head Cap Screw, Black Alloy Steel, M3 x 10 mm",
+    "descriptionAr": "مسمار ألن رأس أسطواني فولاذ سبائكي أسود M3 × 10 مم",
+    "descriptionEn": "Allen Head Cap Screw, Black Alloy Steel, M3 x 10 mm",
+    "specifications": "M3 x 10 mm; Black Alloy Steel",
+    "page": 28,
+    "image": "images/SCR-AHC-AS-M03X10.jpg"
+  },
+  {
+    "code": "SL1540",
+    "nameAr": "SL1540 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "SL1540 — Item per source catalog page 28",
+    "descriptionAr": "SL1540 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "SL1540 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/SL1540.jpg"
+  },
+  {
+    "code": "TA2",
+    "nameAr": "TA2 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TA2 — Item per source catalog page 28",
+    "descriptionAr": "TA2 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TA2 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TA2.jpg"
+  },
+  {
+    "code": "TA74",
+    "nameAr": "TA74 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TA74 — Item per source catalog page 28",
+    "descriptionAr": "TA74 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TA74 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TA74.jpg"
+  },
+  {
+    "code": "TE4",
+    "nameAr": "TE4 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TE4 — Item per source catalog page 28",
+    "descriptionAr": "TE4 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TE4 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TE4.jpg"
+  },
+  {
+    "code": "TO.SAF-01",
+    "nameAr": "TO.SAF-01 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TO.SAF-01 — Item per source catalog page 28",
+    "descriptionAr": "TO.SAF-01 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TO.SAF-01 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TO.SAF-01.jpg"
+  },
+  {
+    "code": "TO.SAF-04",
+    "nameAr": "TO.SAF-04 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TO.SAF-04 — Item per source catalog page 28",
+    "descriptionAr": "TO.SAF-04 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TO.SAF-04 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TO.SAF-04.jpg"
+  },
+  {
+    "code": "TO.SAF-05",
+    "nameAr": "TO.SAF-05 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TO.SAF-05 — Item per source catalog page 28",
+    "descriptionAr": "TO.SAF-05 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TO.SAF-05 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TO.SAF-05.jpg"
+  },
+  {
+    "code": "TO.SAF-07",
+    "nameAr": "TO.SAF-07 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TO.SAF-07 — Item per source catalog page 28",
+    "descriptionAr": "TO.SAF-07 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TO.SAF-07 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TO.SAF-07.jpg"
+  },
+  {
+    "code": "TO.SAF-08",
+    "nameAr": "TO.SAF-08 — صنف مطابق لصفحة المصدر 28",
+    "nameEn": "TO.SAF-08 — Item per source catalog page 28",
+    "descriptionAr": "TO.SAF-08 — صنف مطابق لصفحة المصدر 28",
+    "descriptionEn": "TO.SAF-08 — Item per source catalog page 28",
+    "specifications": "Source page 28",
+    "page": 28,
+    "image": "images/TO.SAF-08.jpg"
+  },
+  {
+    "code": "To-01",
+    "nameAr": "قفازات نيتريل خالية من البودرة، 100 قطعة",
+    "nameEn": "Nitrile Powder-Free Gloves, 100 pcs",
+    "descriptionAr": "قفازات نيتريل خالية من البودرة، 100 قطعة",
+    "descriptionEn": "Nitrile Powder-Free Gloves, 100 pcs",
+    "specifications": "100 pcs",
+    "page": 29,
+    "image": "images/To-01.jpg"
+  },
+  {
+    "code": "To-06",
+    "nameAr": "شريط ريزين أسود 64 مم × 74 متر",
+    "nameEn": "Black Resin Ribbon 64 mm x 74 m",
+    "descriptionAr": "شريط ريزين أسود 64 مم × 74 متر",
+    "descriptionEn": "Black Resin Ribbon 64 mm x 74 m",
+    "specifications": "64 mm x 74 m",
+    "page": 29,
+    "image": "images/To-06.jpg"
+  },
+  {
+    "code": "To-07",
+    "nameAr": "شريط واكس أسود 110 مم × 74 متر",
+    "nameEn": "Black Wax Ribbon 110 mm x 74 m",
+    "descriptionAr": "شريط واكس أسود 110 مم × 74 متر",
+    "descriptionEn": "Black Wax Ribbon 110 mm x 74 m",
+    "specifications": "110 mm x 74 m",
+    "page": 29,
+    "image": "images/To-07.jpg"
+  },
+  {
+    "code": "To-1036.k",
+    "nameAr": "To-1036.k — صنف مطابق لصفحة المصدر 29",
+    "nameEn": "To-1036.k — Item per source catalog page 29",
+    "descriptionAr": "To-1036.k — صنف مطابق لصفحة المصدر 29",
+    "descriptionEn": "To-1036.k — Item per source catalog page 29",
+    "specifications": "Source page 29",
+    "page": 29,
+    "image": "images/To-1036.k.jpg"
+  },
+  {
+    "code": "TO-1109",
+    "nameAr": "TO-1109 — صنف مطابق لصفحة المصدر 29",
+    "nameEn": "TO-1109 — Item per source catalog page 29",
+    "descriptionAr": "TO-1109 — صنف مطابق لصفحة المصدر 29",
+    "descriptionEn": "TO-1109 — Item per source catalog page 29",
+    "specifications": "Source page 29",
+    "page": 29,
+    "image": "images/TO-1109.jpg"
+  },
+  {
+    "code": "To-11222",
+    "nameAr": "إيبوكسي راتنج 1000 جم",
+    "nameEn": "Epoxy Resin 1000 gm",
+    "descriptionAr": "إيبوكسي راتنج 1000 جم",
+    "descriptionEn": "Epoxy Resin 1000 gm",
+    "specifications": "1000 gm",
+    "page": 29,
+    "image": "images/To-11222.jpg"
+  },
+  {
+    "code": "To-1123",
+    "nameAr": "منظف سيكافلكس",
+    "nameEn": "Sikaflex Cleaner",
+    "descriptionAr": "منظف سيكافلكس",
+    "descriptionEn": "Sikaflex Cleaner",
+    "specifications": "Cleaner",
+    "page": 29,
+    "image": "images/To-1123.jpg"
+  },
+  {
+    "code": "To-1131",
+    "nameAr": "To-1131 — صنف مطابق لصفحة المصدر 29",
+    "nameEn": "To-1131 — Item per source catalog page 29",
+    "descriptionAr": "To-1131 — صنف مطابق لصفحة المصدر 29",
+    "descriptionEn": "To-1131 — Item per source catalog page 29",
+    "specifications": "Source page 29",
+    "page": 29,
+    "image": "images/To-1131.jpg"
+  },
+  {
+    "code": "To-114",
+    "nameAr": "سيكافلكس أسود 221، 600 مل / 730 جم",
+    "nameEn": "Sikaflex 221, Black",
+    "descriptionAr": "سيكافلكس أسود 221، 600 مل / 730 جم",
+    "descriptionEn": "Sikaflex 221, Black",
+    "specifications": "600 ml / 730 gm; Switzerland",
+    "page": 29,
+    "image": "images/To-114.jpg"
+  },
+  {
+    "code": "To-120",
+    "nameAr": "To-120 — صنف مطابق لصفحة المصدر 29",
+    "nameEn": "To-120 — Item per source catalog page 29",
+    "descriptionAr": "To-120 — صنف مطابق لصفحة المصدر 29",
+    "descriptionEn": "To-120 — Item per source catalog page 29",
+    "specifications": "Source page 29",
+    "page": 29,
+    "image": "images/To-120.jpg"
+  },
+  {
+    "code": "To-1341",
+    "nameAr": "To-1341 — صنف مطابق لصفحة المصدر 29",
+    "nameEn": "To-1341 — Item per source catalog page 29",
+    "descriptionAr": "To-1341 — صنف مطابق لصفحة المصدر 29",
+    "descriptionEn": "To-1341 — Item per source catalog page 29",
+    "specifications": "Source page 29",
+    "page": 29,
+    "image": "images/To-1341.jpg"
+  },
+  {
+    "code": "To-1474",
+    "nameAr": "لوكتايت 401، 20 جم",
+    "nameEn": "LOCTITE 401, 20 g",
+    "descriptionAr": "لوكتايت 401، 20 جم",
+    "descriptionEn": "LOCTITE 401, 20 g",
+    "specifications": "20 g; Instant Adhesive",
+    "page": 29,
+    "image": "images/To-1474.jpg"
+  },
+  {
+    "code": "To-2211",
+    "nameAr": "كونكتور طاقة AC مع فيوز، أسود",
+    "nameEn": "AC Power Connector with Fuse, Black",
+    "descriptionAr": "كونكتور طاقة AC مع فيوز، أسود",
+    "descriptionEn": "AC Power Connector with Fuse, Black",
+    "specifications": "43.9 x 32.7 x 30 mm; RAM",
+    "page": 30,
+    "image": "images/To-2211.jpg"
+  },
+  {
+    "code": "To-2212",
+    "nameAr": "كابل طاقة كمبيوتر 3 أطراف، أسود",
+    "nameEn": "Computer Power Cable 3P, Black",
+    "descriptionAr": "كابل طاقة كمبيوتر 3 أطراف، أسود",
+    "descriptionEn": "Computer Power Cable 3P, Black",
+    "specifications": "10A 250Vac; L 1750 mm",
+    "page": 30,
+    "image": "images/To-2212.jpg"
+  },
+  {
+    "code": "To-2213",
+    "nameAr": "طرف كهربائي أنثى معزول 6.3 مم",
+    "nameEn": "Insulated 6.3 mm Female Blade Crimp Terminal",
+    "descriptionAr": "طرف كهربائي أنثى معزول 6.3 مم",
+    "descriptionEn": "Insulated 6.3 mm Female Blade Crimp Terminal",
+    "specifications": "FDD5.5-250; RAM",
+    "page": 30,
+    "image": "images/To-2213.jpg"
+  },
+  {
+    "code": "To-2214",
+    "nameAr": "فيوز زجاجي T5، 10A-250V",
+    "nameEn": "Glass Fuse T5, 10A-250V",
+    "descriptionAr": "فيوز زجاجي T5، 10A-250V",
+    "descriptionEn": "Glass Fuse T5, 10A-250V",
+    "specifications": "T5 x 20 mm; RAM",
+    "page": 30,
+    "image": "images/To-2214.jpg"
+  },
+  {
+    "code": "To-2217",
+    "nameAr": "سيكافلكس أبيض AS-65، 600 مل / 730 جم",
+    "nameEn": "Sikaflex AS-65, White",
+    "descriptionAr": "سيكافلكس أبيض AS-65، 600 مل / 730 جم",
+    "descriptionEn": "Sikaflex AS-65, White",
+    "specifications": "600 ml / 730 gm",
+    "page": 30,
+    "image": "images/To-2217.jpg"
+  },
+  {
+    "code": "To-22230",
+    "nameAr": "مفتاح تشغيل وإيقاف ثنائي الطرف، أسود",
+    "nameEn": "ON/OFF Switch 2 Pin, Black",
+    "descriptionAr": "مفتاح تشغيل وإيقاف ثنائي الطرف، أسود",
+    "descriptionEn": "ON/OFF Switch 2 Pin, Black",
+    "specifications": "21 x 15 x 22.6 mm; Copper terminals; RAM",
+    "page": 30,
+    "image": "images/To-22230.jpg"
+  },
+  {
+    "code": "To-2257",
+    "nameAr": "To-2257 — صنف مطابق لصفحة المصدر 30",
+    "nameEn": "To-2257 — Item per source catalog page 30",
+    "descriptionAr": "To-2257 — صنف مطابق لصفحة المصدر 30",
+    "descriptionEn": "To-2257 — Item per source catalog page 30",
+    "specifications": "Source page 30",
+    "page": 30,
+    "image": "images/To-2257.jpg"
+  },
+  {
+    "code": "To-2258",
+    "nameAr": "To-2258 — صنف مطابق لصفحة المصدر 30",
+    "nameEn": "To-2258 — Item per source catalog page 30",
+    "descriptionAr": "To-2258 — صنف مطابق لصفحة المصدر 30",
+    "descriptionEn": "To-2258 — Item per source catalog page 30",
+    "specifications": "Source page 30",
+    "page": 30,
+    "image": "images/To-2258.jpg"
+  },
+  {
+    "code": "To-652",
+    "nameAr": "مقاومة 0.1 كيلو أوم، 0.25 وات",
+    "nameEn": "Resistor 0.1 kΩ, 0.25 W",
+    "descriptionAr": "مقاومة 0.1 كيلو أوم، 0.25 وات",
+    "descriptionEn": "Resistor 0.1 kΩ, 0.25 W",
+    "specifications": "0.1 kΩ; 0.25 W",
+    "page": 30,
+    "image": "images/To-652.jpg"
+  },
+  {
+    "code": "WI-78",
+    "nameAr": "WI-78 — صنف مطابق لصفحة المصدر 30",
+    "nameEn": "WI-78 — Item per source catalog page 30",
+    "descriptionAr": "WI-78 — صنف مطابق لصفحة المصدر 30",
+    "descriptionEn": "WI-78 — Item per source catalog page 30",
+    "specifications": "Source page 30",
+    "page": 30,
+    "image": "images/WI-78.jpg"
+  },
+  {
+    "code": "wlbs05",
+    "nameAr": "wlbs05 — صنف مطابق لصفحة المصدر 30",
+    "nameEn": "wlbs05 — Item per source catalog page 30",
+    "descriptionAr": "wlbs05 — صنف مطابق لصفحة المصدر 30",
+    "descriptionEn": "wlbs05 — Item per source catalog page 30",
+    "specifications": "Source page 30",
+    "page": 30,
+    "image": "images/wlbs05.jpg"
+  },
+  {
+    "code": "ZL500",
+    "nameAr": "ZL500 — صنف مطابق لصفحة المصدر 30",
+    "nameEn": "ZL500 — Item per source catalog page 30",
+    "descriptionAr": "ZL500 — صنف مطابق لصفحة المصدر 30",
+    "descriptionEn": "ZL500 — Item per source catalog page 30",
+    "specifications": "Source page 30",
+    "page": 30,
+    "image": "images/ZL500.jpg"
+  },
+  {
+    "code": "To-1522",
+    "nameAr": "مقاومة 4.76 كيلو أوم، 0.25 وات",
+    "nameEn": "Resistor 4.76 kΩ, 0.25 W",
+    "descriptionAr": "مقاومة 4.76 كيلو أوم، 0.25 وات",
+    "descriptionEn": "Resistor 4.76 kΩ, 0.25 W",
+    "specifications": "4.76 kΩ; 0.25 W",
+    "page": 31,
+    "image": "images/To-1522.jpg"
+  },
+  {
+    "code": "To-1647",
+    "nameAr": "موصل أسلاك مقاوم للماء للاستخدام الخارجي",
+    "nameEn": "Waterproof Wire Nut Connector for Outdoor Use",
+    "descriptionAr": "موصل أسلاك مقاوم للماء للاستخدام الخارجي",
+    "descriptionEn": "Waterproof Wire Nut Connector for Outdoor Use",
+    "specifications": "22-12 AWG",
+    "page": 31,
+    "image": "images/To-1647.jpg"
+  },
+  {
+    "code": "To-165",
+    "nameAr": "To-165 — صنف مطابق لصفحة المصدر 31",
+    "nameEn": "To-165 — Item per source catalog page 31",
+    "descriptionAr": "To-165 — صنف مطابق لصفحة المصدر 31",
+    "descriptionEn": "To-165 — Item per source catalog page 31",
+    "specifications": "Source page 31",
+    "page": 31,
+    "image": "images/To-165.jpg"
+  },
+  {
+    "code": "To-171",
+    "nameAr": "قاطع دائرة 10 أمبير، فاز واحد، شنايدر",
+    "nameEn": "Circuit Breaker 10A, 1 Phase, Schneider Electric",
+    "descriptionAr": "قاطع دائرة 10 أمبير، فاز واحد، شنايدر",
+    "descriptionEn": "Circuit Breaker 10A, 1 Phase, Schneider Electric",
+    "specifications": "10A; 1 Phase",
+    "page": 31,
+    "image": "images/To-171.jpg"
+  },
+  {
+    "code": "To-2004",
+    "nameAr": "To-2004 — صنف مطابق لصفحة المصدر 31",
+    "nameEn": "To-2004 — Item per source catalog page 31",
+    "descriptionAr": "To-2004 — صنف مطابق لصفحة المصدر 31",
+    "descriptionEn": "To-2004 — Item per source catalog page 31",
+    "specifications": "Source page 31",
+    "page": 31,
+    "image": "images/To-2004.jpg"
+  },
+  {
+    "code": "To-209",
+    "nameAr": "لوكتايت 270، 50 مل",
+    "nameEn": "LOCTITE 270, 50 ml",
+    "descriptionAr": "لوكتايت 270، 50 مل",
+    "descriptionEn": "LOCTITE 270, 50 ml",
+    "specifications": "50 ml; Threadlocker",
+    "page": 31,
+    "image": "images/To-209.jpg"
+  },
+  {
+    "code": "FT03",
+    "nameAr": "أنبوب فايبر 3 مم، أحمر",
+    "nameEn": "Fiber Tube 3 mm, Red",
+    "descriptionAr": "أنبوب فايبر 3 مم، أحمر",
+    "descriptionEn": "Fiber Tube 3 mm, Red",
+    "specifications": "3 mm; Red",
+    "page": 32,
+    "image": "images/FT03.jpg"
+  },
+  {
+    "code": "FT04",
+    "nameAr": "أنبوب فايبر 4 مم، أخضر",
+    "nameEn": "Fiber Tube 4 mm, Green",
+    "descriptionAr": "أنبوب فايبر 4 مم، أخضر",
+    "descriptionEn": "Fiber Tube 4 mm, Green",
+    "specifications": "4 mm; Green",
+    "page": 32,
+    "image": "images/FT04.jpg"
+  },
+  {
+    "code": "FT05",
+    "nameAr": "أنبوب فايبر 5 مم، أخضر",
+    "nameEn": "Fiber Tube 5 mm, Green",
+    "descriptionAr": "أنبوب فايبر 5 مم، أخضر",
+    "descriptionEn": "Fiber Tube 5 mm, Green",
+    "specifications": "5 mm; Green",
+    "page": 32,
+    "image": "images/FT05.jpg"
+  },
+  {
+    "code": "FT10",
+    "nameAr": "أنبوب فايبر قطر خارجي 10 مم وداخلي 8 مم، أخضر",
+    "nameEn": "Fiber Tube, OD 10 mm, ID 8 mm, Green",
+    "descriptionAr": "أنبوب فايبر قطر خارجي 10 مم وداخلي 8 مم، أخضر",
+    "descriptionEn": "Fiber Tube, OD 10 mm, ID 8 mm, Green",
+    "specifications": "OD 10 mm; ID 8 mm; Green",
+    "page": 32,
+    "image": "images/FT10.jpg"
+  }
+]
